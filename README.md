@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Quem fez isso?
 
-## Getting Started
+Jogo de perguntas sobre atitudes polêmicas de políticos brasileiros. Você lê uma atitude sem saber de quem é e aponta o culpado: **Lula**, **Bolsonaro** (Jair ou Flávio) ou **os dois lados**.
 
-First, run the development server:
+A ideia é simples: todo mundo lembra das polêmicas do adversário e esquece as do próprio candidato. No fim da rodada, o jogo mostra o que você só enxerga no político dos outros.
+
+## Como funciona
+
+- Cada rodada tem 10 atitudes, sorteadas entre as que você ainda não viu.
+- Acerto vale 100 pontos (150 quando a resposta é "os dois lados"), com bônus por sequência.
+- Depois de responder, o jogo revela quem foi, o contexto e as fontes.
+- No fim, você ganha uma patente, vê o acerto por lado e uma frase sobre o seu viés. Dá para compartilhar o resultado estilo Wordle.
+- Atalhos de teclado: `L`, `B` e `A` para responder, `Enter` para avançar.
+
+## Dados
+
+As atitudes ficam em `src/data/quotes/*.json`, um arquivo por autor (`lula`, `jair`, `flavio` e `ambos`). Cada item segue o tipo `Quote` em `src/data/types.ts`:
+
+- `text`: a atitude, em terceira pessoa e sem pistas sobre o autor.
+- `context`: onde, quando e o que aconteceu depois. Aparece só após a resposta.
+- `sources`: uma ou mais fontes de imprensa. Itens de `ambos` têm pelo menos uma por lado.
+- `difficulty`: 2 (médio) ou 3 (difícil). Itens óbvios demais ficam de fora.
+
+Só entra o que tem fonte verificável. Frases desmentidas por agências de checagem ou de autoria duvidosa não entram.
+
+## Rodando
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
+pnpm install
 pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra http://localhost:3000.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+pnpm test   # testes da lógica do jogo
+pnpm lint
+pnpm build
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Variável opcional: `NEXT_PUBLIC_SITE_URL` define a URL usada no texto de compartilhamento.
 
-## Learn More
+## Estrutura
 
-To learn more about Next.js, take a look at the following resources:
+- `src/game/`: lógica pura do jogo (sorteio da rodada, pontuação, reducer, resumo, texto de compartilhamento, persistência) com testes em Vitest.
+- `src/components/game/`: telas da rodada e do resultado.
+- `src/components/ui/`: peças visuais reutilizáveis (botão, carimbo, fita, etc.).
+- `src/app/globals.css`: todos os tokens de cor, fonte e sombra do tema.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Next.js 16, React 19, Tailwind CSS 4, Motion e Vitest.
