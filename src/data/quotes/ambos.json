@@ -1,0 +1,636 @@
+[
+  {
+    "id": "ambos-001",
+    "politician": "ambos",
+    "text": "Disse que não sabia de nada e que não tinha nada a ver com o esquema de desvio operado por um assessor de confiança.",
+    "context": "Lula: em 2005, com o mensalão, afirmou que não sabia de nada e que havia sido 'traído' por companheiros do PT; José Dirceu e Delúbio Soares caíram, Lula não foi denunciado. Jair Bolsonaro: em 2018, sobre as movimentações de Fabrício Queiroz (assessor de Flávio e ex-motorista da família), disse 'não tenho nada a ver com isso'; Flávio, por sua vez, declarou ao MP-RJ desconhecer depósitos de Queiroz em contas da própria família, versão contrariada pela quebra de sigilo.",
+    "year": 2018,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Agência Brasil — Lula asserts on TV that 'mensalão' scheme did not exist (2005)",
+        "url": "https://memoria.ebc.com.br/agenciabrasil//noticia/2005-11-08/lula-asserts-tv-mensalao-scheme-did-not-exist"
+      },
+      {
+        "title": "ConJur — Delcídio diz que Marcos Valério tratava do mensalão diretamente com Lula",
+        "url": "https://www.conjur.com.br/2016-mar-15/delcidio-valerio-tratava-mensalao-diretamente-lula/"
+      },
+      {
+        "title": "Congresso em Foco — 'Não tenho nada a ver com isso', diz Bolsonaro sobre suspeitas contra Flávio",
+        "url": "https://congressoemfoco.com.br/corrupcao/nao-tenho-nada-a-ver-com-isso-diz-bolsonaro-sobre-suspeitas-contra-flavio"
+      },
+      {
+        "title": "Mais Goiás — Flávio Bolsonaro diz desconhecer depósito de Queiroz para sua mulher",
+        "url": "https://www.maisgoias.com.br/politica/flavio-bolsonaro-diz-desconhecer-deposito-de-queiroz-para-sua-mulher/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-002",
+    "politician": "ambos",
+    "text": "Chamou ministros do Supremo de acovardados ou de canalha, em público ou em gravação.",
+    "context": "Lula: em 2016, grampo divulgado por Sergio Moro registrou Lula chamando STF e STJ de 'acovardados'; a divulgação do áudio foi depois considerada ilegal pelo próprio STF. Jair Bolsonaro: no 7 de Setembro de 2021, na Avenida Paulista, chamou Alexandre de Moraes de 'canalha' e disse que não cumpriria mais suas decisões; dois dias depois divulgou nota de recuo redigida com ajuda de Michel Temer.",
+    "year": 2021,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Migalhas — Moro divulga grampo de ligação entre Lula e Dilma",
+        "url": "https://www.migalhas.com.br/quentes/235956/moro-divulga-grampo-de-ligacao-entre-lula-e-dilma"
+      },
+      {
+        "title": "O Povo — Em último ato na Paulista, Bolsonaro chamou Moraes de 'canalha' e atacou urnas e o STF",
+        "url": "https://www.opovo.com.br/noticias/politica/2024/02/25/em-ultimo-ato-na-paulista-bolsonaro-chamou-moraes-de-canalha-e-atacou-urnas-e-o-stf.html"
+      },
+      {
+        "title": "Gazeta do Povo — 'Carta à nação': por que Bolsonaro recuou",
+        "url": "https://www.gazetadopovo.com.br/republica/carta-a-nacao-por-que-bolsonaro-recuou/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-003",
+    "politician": "ambos",
+    "text": "Teve gastos sigilosos de milhões no cartão corporativo da Presidência expostos pela imprensa e defendeu manter parte deles em segredo.",
+    "context": "Lula: em 2008, a revelação de gastos com cartões corporativos derrubou a ministra Matilde Ribeiro e gerou CPI; Lula defendeu manter sob sigilo as despesas com segurança pessoal e da família, que somavam dezenas de milhões. Jair Bolsonaro: dados liberados em janeiro de 2023 mostraram R$ 27,6 milhões gastos em quatro anos, mantidos em sigilo até o fim do mandato, apesar de ele dizer que não usava o cartão.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Migalhas — Lula defende que gastos no cartão com segurança pessoal não sejam divulgados",
+        "url": "https://www.migalhas.com.br/quentes/54081/lula-defende-que-gastos-no-cartao-com-seguranca-pessoal-nao-sejam-divulgados"
+      },
+      {
+        "title": "Congresso em Foco — Metade dos gastos com cartão são secretos (2008)",
+        "url": "https://www.congressoemfoco.com.br/noticia/3032/manchetes-dos-jornais-metade-dos-gastos-com-cartao-sao-secretos"
+      },
+      {
+        "title": "Congresso em Foco — Bolsonaro gastou R$ 27 milhões no cartão corporativo em quatro anos",
+        "url": "https://congressoemfoco.com.br/area/pais/bolsonaro-gastou-r-27-milhoes-no-cartao-corporativo-em-quatro-anos"
+      }
+    ]
+  },
+  {
+    "id": "ambos-004",
+    "politician": "ambos",
+    "text": "Indicou para o STF alguém de sua confiança pessoal direta: o próprio advogado ou um ministro do seu governo escolhido por afinidade.",
+    "context": "Lula: em 2023 indicou Cristiano Zanin, seu advogado na Lava Jato, depois de ter criticado Bolsonaro na campanha por nomear 'amigo' ao tribunal; um deputado do PL acionou a Justiça contra a escolha. Jair Bolsonaro: em 2021 indicou André Mendonça, seu AGU e ex-ministro da Justiça, para cumprir a promessa de um 'terrivelmente evangélico' no Supremo.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "O Povo — Lula indica para STF Cristiano Zanin, advogado dele na Lava Jato",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/06/01/lula-indica-para-stf-cristiano-zanin-advogado-dele-na-lava-jato.html"
+      },
+      {
+        "title": "O Povo — Bolsonaro indica André Mendonça ao STF",
+        "url": "https://www.opovo.com.br/noticias/politica/2021/07/13/diario-oficial--traz-indicacao-de-andre-mendonca-ao-stf.html"
+      },
+      {
+        "title": "SBT News — Bolsonaro diz que cumpriu missão de levar 'terrivelmente evangélico' ao STF",
+        "url": "https://sbtnews.sbt.com.br/noticia/governo/189213-bolsonaro-diz-que-cumpriu-missao-de-levar-terrivelmente-evangelico-ao-stf"
+      }
+    ]
+  },
+  {
+    "id": "ambos-007",
+    "politician": "ambos",
+    "text": "Teve familiares voando em aviões da FAB para compromissos sem agenda oficial clara.",
+    "context": "Lula: em 2025, Janja usou aeronave da FAB para ir ao Rio em agenda que incluiu visita ao barracão da escola de samba que homenagearia Lula no Carnaval; o pedido oficial citava apenas um evento do Ministério da Ciência. Jair Bolsonaro: levantamento do Metrópoles apontou cerca de 70 voos da FAB com Michelle, Carlos e Jair Renan, parte deles para cultos sem evento oficial; em 2021, a ministra Damares Alves levou sete parentes de Michelle em voo da FAB.",
+    "year": 2025,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "CNN Brasil — Janja viajou ao Rio com avião da FAB e visitou escola que homenageou Lula",
+        "url": "https://www.cnnbrasil.com.br/politica/janja-viajou-ao-rio-com-aviao-da-fab-e-visitou-escola-que-homenageou-lula/"
+      },
+      {
+        "title": "InfoMoney — Janja usou avião da FAB em agenda que incluiu escola pró-Lula, diz site",
+        "url": "https://www.infomoney.com.br/politica/janja-usou-aviao-da-fab-em-agenda-que-incluiu-escola-pro-lula/"
+      },
+      {
+        "title": "Metrópoles — Bolsonaro levou 13 pessoas de FAB em voo a turismo para os EUA",
+        "url": "https://www.metropoles.com/colunas/guilherme-amado/bolsonaro-levou-13-pessoas-de-fab-em-voo-a-turismo-para-os-eua"
+      },
+      {
+        "title": "Correio Braziliense — Damares teria usado avião da FAB para dar carona a 7 parentes de Michelle",
+        "url": "https://www.correiobraziliense.com.br/politica/2021/10/4957944-damares-teria-usado-aviao-da-fab-para-dar-carona-a-7-parentes-de-michelle.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-009",
+    "politician": "ambos",
+    "text": "Foi multado pelo TSE por propaganda eleitoral antecipada.",
+    "context": "Lula: em 2010, como presidente, acumulou sete punições do TSE (R$ 47,5 mil no total) por pedir votos para Dilma antes do período legal. Jair Bolsonaro: em 2022 o TSE o multou em R$ 5 mil por discurso em motociata em Cuiabá e em R$ 20 mil pela reunião com embaixadores em que atacou as urnas; o STF manteve a multa em 2023.",
+    "year": 2022,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — TSE multa Lula e Dilma por propaganda antecipada",
+        "url": "https://www.congressoemfoco.com.br/noticia/71259/tse-multa-lula-e-dilma-por-propaganda-antecipada"
+      },
+      {
+        "title": "Gazeta do Povo — TSE multa Lula em R$ 5 mil por propaganda antecipada pró-Dilma",
+        "url": "https://www.gazetadopovo.com.br/vida-publica/tse-multa-lula-em-r-5-mil-por-propaganda-antecipada-pro-dilma-2j2tb0wkf3h6g33mst7kazccu"
+      },
+      {
+        "title": "Congresso em Foco — TSE condena Bolsonaro a multa por propaganda antecipada em motociata",
+        "url": "https://www.congressoemfoco.com.br/noticia/11115/tse-condena-bolsonaro-a-multa-por-propaganda-antecipada-em-motociata"
+      }
+    ]
+  },
+  {
+    "id": "ambos-010",
+    "politician": "ambos",
+    "text": "Teve um filho alvo de operação policial ou denúncia por suspeita de desvio de dinheiro e lavagem.",
+    "context": "Lula: em 2019, a Operação Mapa da Mina (Lava Jato) investigou R$ 132 milhões repassados pela Oi a empresas de Fábio Luís, o Lulinha; a PF chegou a pedir sua prisão temporária, negada pela juíza Gabriela Hardt. Jair Bolsonaro: em 2020, o MP-RJ denunciou Flávio por peculato, lavagem e organização criminosa no caso das 'rachadinhas' na Alerj; a denúncia perdeu força depois que o STJ anulou as quebras de sigilo em 2021.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 — Lava Jato investiga repasses de R$ 132 mi da Oi para grupo ligado a Lulinha",
+        "url": "https://www.poder360.com.br/justica/lava-jato-investiga-repasses-de-r-132-mi-da-oi-para-grupo-ligado-a-lulinha"
+      },
+      {
+        "title": "Jornal de Brasília — PF chegou a pedir prisão de Lulinha, mas Gabriela Hardt negou",
+        "url": "https://jornaldebrasilia.com.br/noticias/brasil/pf-chegou-a-pedir-prisao-de-lulinha-mas-gabriela-hardt-negou/"
+      },
+      {
+        "title": "Correio Braziliense — MP denuncia Flávio Bolsonaro e Queiroz por esquema de rachadinha",
+        "url": "https://www.correiobraziliense.com.br/politica/2020/11/4886510-mp-denuncia-flavio-bolsonaro-e-queiroz-por-esquema-de-rachadinha.html"
+      },
+      {
+        "title": "Diário de Pernambuco — Flávio Bolsonaro é denunciado por organização criminosa, peculato e lavagem",
+        "url": "https://www.diariodepernambuco.com.br/noticia/politica/2020/11/flavio-bolsonaro-e-denunciado-por-organizacao-criminosa-peculato-lav.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-012",
+    "politician": "ambos",
+    "text": "Faltou a debates presidenciais na TV, deixando a cadeira vazia.",
+    "context": "Lula: em 2006 não foi a nenhum debate do primeiro turno, inclusive o da Globo, em que sua cadeira ficou vazia; aliados viram na ausência uma das razões de a eleição ir ao segundo turno. Jair Bolsonaro: em 2018 não participou de nenhum debate do segundo turno contra Haddad, alegando recomendação médica após a facada, mas admitindo que era também 'estratégia'; a Globo cancelou seu debate.",
+    "year": 2018,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Lula não irá a debates no primeiro turno (2006)",
+        "url": "https://www.congressoemfoco.com.br/noticia/92870/lula-nao-ira-a-debates-no-primeiro-turno"
+      },
+      {
+        "title": "Congresso em Foco — Cadeira vazia, debate morno (2006)",
+        "url": "https://www.congressoemfoco.com.br/noticia/2293/cadeira-vazia-debate-morno"
+      },
+      {
+        "title": "Congresso em Foco — Bolsonaro confirma que não enfrentará Haddad em debates",
+        "url": "https://www.congressoemfoco.com.br/noticia/45179/bolsonaro-confirma-que-nao-enfrentara-haddad-em-debates"
+      },
+      {
+        "title": "Jornal do Brasil — Bolsonaro admite não ir a debates com Haddad por 'estratégia'",
+        "url": "https://www.jb.com.br/pais/eleicoes_2018/2018/10/amp/946696-bolsonaro-admite-nao-ir-a-debates-com-haddad-por-estrategia.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-013",
+    "politician": "ambos",
+    "text": "Fez, com a Rússia mobilizada contra a Ucrânia, declaração vista no exterior como alinhamento a Putin.",
+    "context": "Lula: em maio de 2022, à revista Time, disse que Zelensky era 'tão responsável quanto Putin' pela guerra e que poderia ter negociado mais; a fala teve repercussão internacional negativa. Jair Bolsonaro: em 16 de fevereiro de 2022, no Kremlin, oito dias antes da invasão e com tropas russas já na fronteira, disse a Putin que o Brasil era 'solidário à Rússia', ignorando apelos dos EUA para cancelar a viagem.",
+    "year": 2022,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 — Lula diz que Putin e Zelensky têm culpa idêntica pela guerra",
+        "url": "https://www.poder360.com.br/eleicoes/lula-diz-que-putin-e-zelensky-tem-culpa-identica-pela-guerra"
+      },
+      {
+        "title": "A Gazeta — Lula diz que Zelenski é tão responsável quanto Putin pela guerra da Ucrânia",
+        "url": "https://www.agazeta.com.br/mundo/lula-diz-que-zelenski-e-tao-responsavel-quanto-putin-pela-guerra-da-ucrania-0522"
+      },
+      {
+        "title": "Correio 24 Horas — Bolsonaro diz a Putin ser solidário à Rússia e cita colaboração entre os países",
+        "url": "https://www.correio24horas.com.br/brasil/bolsonaro-diz-a-putin-ser-solidario-a-russia-e-cita-colaboracao-entre-os-paises-0222"
+      },
+      {
+        "title": "Poder360 — Mídia internacional destaca aproximação de Bolsonaro e Putin",
+        "url": "https://www.poder360.com.br/midia/midia-internacional-destaca-aproximacao-de-bolsonaro-e-putin/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-014",
+    "politician": "ambos",
+    "text": "Fez sobre uma deputada comentário amplamente considerado machista.",
+    "context": "Lula: em março de 2025, ao anunciar Gleisi Hoffmann como ministra, disse que uma 'mulher bonita' ajudaria na relação com o Congresso; a fala foi criticada até por aliadas. Jair Bolsonaro: em 2014, no plenário da Câmara, disse a Maria do Rosário que não a estupraria porque ela 'não merece'; foi condenado a indenizá-la em R$ 10 mil, decisão mantida por STJ e STF.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "InfoMoney — Bolsonaristas criticam fala de Lula sobre 'mulher bonita' na articulação política",
+        "url": "https://www.infomoney.com.br/?p=2792502"
+      },
+      {
+        "title": "Band — Gleisi defende Lula após fala machista e diz que gestos são mais importantes que palavras",
+        "url": "https://www.band.com.br/noticias/gleisi-defende-lula-apos-fala-machista-e-diz-que-gestos-sao-mais-importantes-que-palavras-202503131048"
+      },
+      {
+        "title": "Congresso em Foco — Bolsonaro é condenado por declaração ofensiva a Maria do Rosário",
+        "url": "https://www.congressoemfoco.com.br/noticia/43661/bolsonaro-e-condenado-por-declaracao-ofensiva-a-maria-do-rosario"
+      },
+      {
+        "title": "Jornal do Brasil — Bolsonaro é condenado por dizer que deputada não merecia estupro",
+        "url": "https://www.jb.com.br/pais/noticias/2015/09/17/amp/bolsonaro-e-condenado-por-dizer-que-deputada-nao-merecia-estupro.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-015",
+    "politician": "ambos",
+    "text": "Disse, em evento público, frase estereotipada sobre afrodescendentes e virou alvo de denúncia por racismo.",
+    "context": "Lula: em fevereiro de 2024, em fábrica da Volkswagen, disse sobre uma jovem aprendiz negra que 'uma afrodescendente assim gosta de um batuque, de um tambor'; um deputado do PL levou o caso à PGR e a Secom disse que ele exemplificava estereótipos. Jair Bolsonaro: em 2017, no Clube Hebraica, disse que 'o afrodescendente mais leve' em um quilombo 'pesava sete arrobas' e que quilombolas 'não servem nem para procriar'; foi condenado a pagar R$ 50 mil, decisão revertida pelo TRF-2.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 — Lula é denunciado por dizer que jovem negra 'gosta de um batuque'",
+        "url": "https://www.poder360.com.br/justica/lula-e-denunciado-por-dizer-que-jovem-negra-gosta-de-um-batuque/"
+      },
+      {
+        "title": "Metrópoles — Jovem citada por Lula diz não ter se sentido ofendida",
+        "url": "https://www.metropoles.com/sao-paulo/lula-jovem-negra"
+      },
+      {
+        "title": "CartaCapital — Bolsonaro é condenado por comentário racista contra quilombolas",
+        "url": "https://cartacapital.com.br/politica/bolsonaro-e-condenado-por-comentario-racista-contra-quilombolas-leia-a-integra"
+      },
+      {
+        "title": "Congresso em Foco — TRF-2 julga improcedente condenação de Bolsonaro por racismo",
+        "url": "https://congressoemfoco.com.br/noticia/33178/trf-2-julga-improcedente-condenacao-de-bolsonaro-por-racismo"
+      }
+    ]
+  },
+  {
+    "id": "ambos-016",
+    "politician": "ambos",
+    "text": "Disse que a fome no Brasil era mentira ou já tinha acabado, afirmação desmentida por dados oficiais.",
+    "context": "Lula: repetiu ao menos 24 vezes que o Brasil 'acabou com a fome' em 2014; a Aos Fatos classificou como falso, já que o próprio relatório da FAO citado mostrava cerca de 3% da população com fome. Jair Bolsonaro: em julho de 2019 disse a correspondentes estrangeiros que 'falar que se passa fome no Brasil é uma grande mentira'; no mesmo dia recuou, admitindo que uma 'pequena parte' passa fome.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Aos Fatos — Em 2024, Lula desinformou sobre fome e educação",
+        "url": "https://www.aosfatos.org/noticias/lula-2024-desinformou-fome-educacao/"
+      },
+      {
+        "title": "Poder360 — 'Falar que se passa fome no Brasil é uma grande mentira', diz Bolsonaro",
+        "url": "https://www.poder360.com.br/governo/falar-que-se-passa-fome-no-brasil-e-uma-grande-mentira-diz-bolsonaro/"
+      },
+      {
+        "title": "Exame — Bolsonaro recua e diz que pequena parte do Brasil passa fome",
+        "url": "https://exame.com/brasil/bolsonaro-recua-e-diz-que-pequena-parte-do-brasil-passa-fome/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-017",
+    "politician": "ambos",
+    "text": "Impôs sigilo de 100 anos a informações pedidas pela Lei de Acesso à Informação, inclusive sobre a própria família.",
+    "context": "Lula: em 2023, o governo negou 1.339 pedidos via LAI alegando dados pessoais (sigilo de 100 anos na prática), entre eles a agenda de Janja — volume quase igual ao de 2022; em 2024 a CGU anunciou medidas para reduzir o uso do instrumento. Jair Bolsonaro: em 2021 a Presidência impôs sigilo de 100 anos ao cartão de vacinação do presidente e ao processo do Exército contra Pazuello; Lula mandou revisar esses sigilos em 2023.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Correio 24 Horas — Lula impõe sigilo de 100 anos a 1.339 pedidos, da agenda de Janja a textos sobre Robinho",
+        "url": "https://www.correio24horas.com.br/brasil/lula-impoe-sigilo-de-100-anos-a-1339-pedidos-desde-agenda-de-janja-a-textos-sobre-robinho-0324"
+      },
+      {
+        "title": "Exame — Governo propõe medidas para reduzir sigilo de 100 anos",
+        "url": "https://exame.com/brasil/governo-propoe-medidas-para-reduzir-sigilo-de-100-anos/"
+      },
+      {
+        "title": "Congresso em Foco — Planalto impõe sigilo de 100 anos a cartão de vacinação de Bolsonaro",
+        "url": "https://www.congressoemfoco.com.br/saude/planalto-sigilo-cartao-vacinacao-bolsonaro/"
+      },
+      {
+        "title": "Migalhas — Lula manda CGU reavaliar sigilos de 100 anos de Bolsonaro",
+        "url": "https://www.migalhas.com.br/quentes/379389/lula-manda-cgu-reavaliar-sigilos-de-100-anos-de-bolsonaro"
+      }
+    ]
+  },
+  {
+    "id": "ambos-018",
+    "politician": "ambos",
+    "text": "Criticou a 'velha política' de loteamento de cargos com o centrão e depois entregou ministérios ao bloco.",
+    "context": "Lula: em 2021 ironizou que a 'nova política' de Bolsonaro era 'ficar refém do centrão'; em 2023, após acordo com Arthur Lira, entregou o Esporte a André Fufuca (PP) e Portos e Aeroportos a Silvio Costa Filho (Republicanos), demitindo Márcio França. Jair Bolsonaro: em 2018 disse que distribuir ministérios por apoio parlamentar seria 'infração constitucional'; em 2020 loteou cargos ao bloco e em 2021 declarou 'eu sou do Centrão'.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Rolling Stone Brasil — Bolsonaro vai 'ficar refém do Centrão?', provoca Lula",
+        "url": "https://rollingstone.com.br/politica/bolsonaro-vai-ficar-refem-do-centrao-provoca-lula/"
+      },
+      {
+        "title": "BNews/Folhapress — 'Nova política' do Bolsonaro é ficar refém do centrão, provoca Lula",
+        "url": "https://www.bnews.com.br/noticias/politica/315957-nova-politica-do-bolsonaro-e-ficar-refem-do-centrao-provoca-lula.html"
+      },
+      {
+        "title": "O Antagonista — 'Estou muito satisfeito', diz Lula sobre a entrada de ministros do Centrão no governo",
+        "url": "https://oantagonista.com.br/brasil/estou-muito-satisfeito-diz-lula-sobre-a-entrada-de-ministros-do-centrao-no-governo/"
+      },
+      {
+        "title": "Jornal Opção — Lula define reforma ministerial; veja mudanças",
+        "url": "https://jornalopcao.com.br/brasil/lula-define-reforma-ministerial-veja-mudancas-521388/"
+      },
+      {
+        "title": "Diário do Nordeste — 'Eu sou do Centrão', diz Bolsonaro sobre aliança com o PP",
+        "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/eu-sou-do-centrao-diz-bolsonaro-sobre-alianca-com-o-pp-1.3113128"
+      },
+      {
+        "title": "BNews/Folhapress — Com Bolsonaro, centrão tenta retomar Câmara seis anos após vitória de Cunha",
+        "url": "https://www.bnews.com.br/noticias/politica/295399-com-bolsonaro-centrao-tenta-retomar-camara-seis-anos-apos-vitoria-de-cunha.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-019",
+    "politician": "ambos",
+    "text": "Prometeu em campanha isentar do Imposto de Renda quem ganha até cerca de 5 mil reais por mês.",
+    "context": "Jair Bolsonaro: em 2018 prometeu isenção até cinco salários mínimos; a reforma do IR enviada em 2021 subiu a faixa só para R$ 2.400, e Paulo Guedes admitiu que a promessa não foi cumprida. Lula: em 2022 prometeu isenção até R$ 5 mil; durante quase todo o mandato a faixa ficou em R$ 2.112, e a lei só foi sancionada em novembro de 2025, valendo a partir de 2026.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "A Gazeta — Governo finaliza reforma do IR sem cumprir promessa eleitoral de Bolsonaro",
+        "url": "https://www.agazeta.com.br/economia/governo-finaliza-reforma-do-ir-sem-cumprir-promessa-eleitoral-de-bolsonaro-0621"
+      },
+      {
+        "title": "Jovem Pan — Guedes diz que Bolsonaro não conseguiu cumprir promessa de isenção no IR para quem recebe até 5 salários mínimos",
+        "url": "https://jovempan.com.br/economia/macroeconomia/guedes-diz-que-bolsonaro-nao-conseguiu-cumprir-promessa-de-isencao-no-ir-para-quem-recebe-ate-5-salarios-minimos/"
+      },
+      {
+        "title": "Jornal Opção — 10 promessas que Lula não cumpriu (e provavelmente nem cumprirá)",
+        "url": "https://www.jornalopcao.com.br/colunas-e-blogs/faltou-dizer-colunas-e-blogs/10-promessas-que-lula-nao-cumpriu-e-talvez-nem-cumprira-737944/"
+      },
+      {
+        "title": "Exame — Lula sanciona isenção do Imposto de Renda para salários de até R$ 5 mil",
+        "url": "https://exame.com/brasil/lula-sanciona-isencao-do-imposto-de-renda-para-salarios-de-ate-r-5-mil"
+      }
+    ]
+  },
+  {
+    "id": "ambos-020",
+    "politician": "ambos",
+    "text": "Manteve no cargo um ministro já alvo de operação da PF por corrupção e só o viu sair quando a investigação avançou.",
+    "context": "Lula: Juscelino Filho (Comunicações) foi indiciado pela PF em 2024 por desvio de emendas via Codevasf e permaneceu no cargo até ser denunciado pela PGR, em abril de 2025, quando pediu demissão; Lula chamou a saída de 'saudável'. Jair Bolsonaro: Ricardo Salles (Meio Ambiente) foi alvo da Operação Akuanduba em maio de 2021, recebeu elogios públicos do presidente em 22 de junho e pediu demissão no dia seguinte.",
+    "year": 2025,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 — Denunciado pela PGR, Juscelino Filho pede demissão do governo",
+        "url": "https://www.poder360.com.br/poder-governo/denunciado-pela-pgr-juscelino-filho-vai-pedir-demissao-do-governo/"
+      },
+      {
+        "title": "Poder360 — Lula diz que demissão de Juscelino Filho foi escolha 'saudável'",
+        "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-demissao-de-juscelino-filho-foi-escolha-saudavel/"
+      },
+      {
+        "title": "Poder360 — Alvo de investigação da PF, Ricardo Salles pede demissão",
+        "url": "https://www.poder360.com.br/governo/alvo-de-investigacao-ricardo-salles-pede-demissao/"
+      },
+      {
+        "title": "Estado de Minas — Ricardo Salles pede demissão do Ministério do Meio Ambiente",
+        "url": "https://www.em.com.br/app/noticia/politica/2021/06/23/interna_politica,1279746/ricardo-salles-pede-demissao-do-ministerio-do-meio-ambiente.shtml"
+      }
+    ]
+  },
+  {
+    "id": "ambos-021",
+    "politician": "ambos",
+    "text": "Teve presentes de luxo recebidos de autoridades estrangeiras (joias, relógio) examinados pelo TCU.",
+    "context": "Lula: um relógio Cartier recebido por Lula motivou, em agosto de 2024, decisão do TCU de que presentes 'personalíssimos' não precisam ir ao acervo público, revertendo entendimento de 2016. Jair Bolsonaro: em março de 2023 o TCU mandou entregar à União as joias sauditas e em setembro apontou 118 presentes a devolver; a PF o indiciou por suposta venda de parte dos itens, e sua defesa usou a decisão sobre o relógio de Lula para pedir o arquivamento.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 — Saiba como é a regra para presentes recebidos por presidentes",
+        "url": "https://www.poder360.com.br/poder-governo/saiba-como-e-a-regra-para-presentes-recebidos-por-presidentes/"
+      },
+      {
+        "title": "O Povo — Bolsonaro usará decisão do TCU para pedir arquivamento de inquérito das joias no STF",
+        "url": "https://www.opovo.com.br/noticias/politica/2024/08/07/bolsonaro-usara-decisao-do-tcu-para-pedir-arquivamento-de-inquerito-das-joias-no-stf.html"
+      },
+      {
+        "title": "O Povo — TCU diz que Bolsonaro tem que devolver 118 presentes que são patrimônio do governo",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/09/08/amp/tcu-diz-que-bolsonaro-tem-que-devolver-118-presentes-que-sao-patrimonio-do-governo.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-023",
+    "politician": "ambos",
+    "text": "Disse sobre a pandemia uma frase que causou indignação e depois admitiu que ela foi infeliz.",
+    "context": "Lula: em maio de 2020 disse 'ainda bem que a natureza criou esse monstro chamado coronavírus', para argumentar pela importância do Estado; no dia seguinte pediu desculpas pela 'frase totalmente infeliz'. Jair Bolsonaro: em abril de 2020, questionado sobre as mortes, respondeu 'lamento, quer que eu faça o quê?' e 'não sou coveiro'; mais tarde disse que lamentava o que falou e não falaria de novo.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Metrópoles — 'Ainda bem que monstro coronavírus demonstra força do Estado', diz Lula",
+        "url": "https://www.metropoles.com/brasil/ainda-bem-que-monstro-coronavirus-demonstra-forca-do-estado-diz-lula"
+      },
+      {
+        "title": "A Gazeta — Lula pede desculpas por usar 'frase infeliz' ao falar sobre coronavírus",
+        "url": "https://www.agazeta.com.br/brasil/lula-pede-desculpas-por-usar-frase-infeliz-ao-falar-sobre-coronavirus-0520"
+      },
+      {
+        "title": "A Gazeta — Bolsonaro sobre número de mortes por coronavírus: 'Não sou coveiro'",
+        "url": "https://www.agazeta.com.br/brasil/bolsonaro-sobre-numero-de-mortes-por-coronavirus-nao-sou-coveiro-0420"
+      },
+      {
+        "title": "IstoÉ — 'Aloprou': relembre 10 frases polêmicas de Bolsonaro durante a pandemia",
+        "url": "https://istoe.com.br/aloprou-relembre-10-frases-polemicas-de-bolsonaro-durante-a-pandemia/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-024",
+    "politician": "ambos",
+    "text": "Foi formalmente investigado ou denunciado por tentar obstruir investigações, em caso que terminou arquivado ou em absolvição.",
+    "context": "Lula: denunciado em 2016 por obstrução de Justiça na Lava Jato (suposta compra do silêncio de Nestor Cerveró, caso Delcídio), foi absolvido em 2018 pela Justiça Federal do DF e depois pelo TRF-1, que viu 'flagrante preparado'. Jair Bolsonaro: inquérito aberto no STF em 2020 após Sergio Moro acusá-lo de trocar o comando da PF para proteger aliados; a PF concluiu em 2022 não haver crime e a PGR pediu o arquivamento.",
+    "year": 2022,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Justiça do DF absolve Lula na Lava Jato",
+        "url": "https://www.congressoemfoco.com.br/noticia/39493/justica-do-df-absolve-lula-na-lava-jato"
+      },
+      {
+        "title": "Migalhas — Justiça absolve envolvidos no caso Cerveró",
+        "url": "https://www.migalhas.com.br/quentes/283634/justica-absolve-envolvidos-no-caso-cervero"
+      },
+      {
+        "title": "Poder360 — PGR: Bolsonaro não cometeu crime em caso de interferência na PF",
+        "url": "https://www.poder360.com.br/governo/pgr-bolsonaro-nao-cometeu-crime-em-caso-de-interferencia-na-pf/"
+      },
+      {
+        "title": "Jovem Pan — PF descarta interferência de Bolsonaro e encerra inquérito motivado por Moro",
+        "url": "https://jovempan.com.br/politica/pf-descarta-interferencia-de-bolsonaro-e-encerra-inquerito-motivado-por-moro/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-025",
+    "politician": "ambos",
+    "text": "Quebrou a tradição e não foi à posse do presidente eleito da Argentina depois de ser atacado por ele na campanha.",
+    "context": "Lula: em dezembro de 2023 não foi à posse de Javier Milei, que o havia chamado de 'corrupto' e 'comunista'; enviou o chanceler Mauro Vieira. Jair Bolsonaro: em 2019 anunciou que não iria à posse de Alberto Fernández, que defendera Lula e que ele se recusou a cumprimentar pela vitória; enviou Hamilton Mourão. Nos dois casos, a imprensa registrou a primeira ausência de um presidente brasileiro na posse argentina desde a redemocratização.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "O Povo — Planalto confirma que Lula não irá à posse de Milei, após ser chamado de corrupto e comunista",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/12/05/lula-nao-ira-a-posse-de-milei-e-sera-representado-por-mauro-vieira-diz-planalto.html"
+      },
+      {
+        "title": "Poder360 — Lula repete Bolsonaro e quebra tradição ao não ir à posse de Milei",
+        "url": "https://www.poder360.com.br/governo/lula-repete-bolsonaro-e-quebra-tradicao-ao-nao-ir-a-posse-de-milei/"
+      },
+      {
+        "title": "Poder360 — Bolsonaro se nega a ir à posse do novo presidente da Argentina",
+        "url": "https://www.poder360.com.br/governo/bolsonaro-se-nega-a-ir-a-posse-do-novo-presidente-da-argentina/"
+      },
+      {
+        "title": "Poder360 — Bolsonaro decide enviar Mourão para a posse de Fernández na Argentina",
+        "url": "https://www.poder360.com.br/governo/bolsonaro-decide-enviar-mourao-para-a-posse-de-fernandez-na-argentina/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-026",
+    "politician": "ambos",
+    "text": "Resistiu publicamente a uma ordem do Judiciário e recuou em menos de 48 horas.",
+    "context": "Lula: em abril de 2018 deixou passar o prazo das 17h dado por Moro para se entregar, permaneceu no Sindicato dos Metalúrgicos do ABC cercado por militantes e só se entregou à PF cerca de 25 horas depois do prazo. Jair Bolsonaro: no 7 de Setembro de 2021 disse que não cumpriria mais decisões de Alexandre de Moraes; em 9 de setembro divulgou 'carta à nação', redigida com Michel Temer, dizendo que nunca teve a intenção de agredir os Poderes.",
+    "year": 2021,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Após pedidos de resistência e bloqueio de militantes, Lula se entrega à Polícia Federal",
+        "url": "https://www.congressoemfoco.com.br/noticias/apos-pedidos-de-resistencia-e-bloqueio-de-militantes-lula-se-entrega-a-policia-federal/"
+      },
+      {
+        "title": "Migalhas — Lula se entrega à PF",
+        "url": "https://www.migalhas.com.br/quentes/278007/lula-se-entrega-a-pf"
+      },
+      {
+        "title": "Gazeta do Povo — 'Carta à nação': por que Bolsonaro recuou",
+        "url": "https://www.gazetadopovo.com.br/republica/carta-a-nacao-por-que-bolsonaro-recuou/"
+      },
+      {
+        "title": "Estado de Minas — Michel Temer: Moraes não recuou 'um milímetro' em conversa com Bolsonaro",
+        "url": "https://www.em.com.br/app/noticia/politica/2021/09/17/interna_politica,1306751/michel-temer-moraes-nao-recuou-um-milimetro-em-conversa-com-bolsonaro.shtml"
+      }
+    ]
+  },
+  {
+    "id": "ambos-027",
+    "politician": "ambos",
+    "text": "Teve a compra ou reforma de um imóvel de luxo investigada por suspeita de que o dinheiro viesse de esquema ilícito.",
+    "context": "Lula: o tríplex do Guarujá (OAS) e o sítio de Atibaia (Odebrecht/OAS) renderam condenações na Lava Jato em 2017 e 2019, todas anuladas pelo STF em 2021 por incompetência da vara de Curitiba e parcialidade de Moro. Flávio Bolsonaro: em 2021 comprou mansão de R$ 5,97 milhões no Lago Sul, em Brasília, com financiamento do BRB; o MPDFT abriu apuração sobre o empréstimo, em meio à denúncia das rachadinhas (R$ 6,1 milhões desviados, segundo o MP-RJ). Flávio negou irregularidades.",
+    "year": 2021,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Metrópoles — Triplex, Atibaia e Instituto Lula: relembre casos de Lula na Lava Jato",
+        "url": "https://www.metropoles.com/brasil/justica/triplex-atibaia-e-instituto-lula-relembre-casos-de-lula-na-lava-jato"
+      },
+      {
+        "title": "Congresso em Foco — Por unanimidade, TRF-4 confirma condenação e aumenta pena de Lula no caso do sítio",
+        "url": "https://congressoemfoco.com.br/justica/por-unanimidade-trf4-confirma-condenacao-e-aumenta-pena-de-lula-no-caso-do-sitio"
+      },
+      {
+        "title": "Poder360 — Flávio Bolsonaro nega irregularidades em compra de mansão por R$ 6 milhões",
+        "url": "https://www.poder360.com.br/congresso/flavio-bolsonaro-nega-irregularidades-em-compra-de-mansao-por-r-6-milhoes/"
+      },
+      {
+        "title": "Jornal de Brasília — Ministério Público investiga empréstimo de banco a Flávio Bolsonaro para compra de mansão",
+        "url": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/ministerio-publico-investiga-emprestimo-de-banco-a-flavio-bolsonaro-para-compra-de-mansao/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-028",
+    "politician": "ambos",
+    "text": "Chamou uma mulher estrangeira de projeção internacional por um diminutivo depreciativo (mulherzinha, pirralha).",
+    "context": "Lula: em abril de 2025 chamou Kristalina Georgieva, diretora-gerente do FMI, de 'mulherzinha' ao criticar previsões do Fundo para o Brasil, imitando a voz e as expressões dela. Jair Bolsonaro: em dezembro de 2019 chamou Greta Thunberg de 'pirralha' ao comentar denúncia dela sobre assassinato de indígenas; a ativista trocou a bio do Twitter para 'Pirralha'.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "InfoMoney — Lula chama diretora do FMI de 'mulherzinha' e critica previsões sobre o Brasil",
+        "url": "https://www.infomoney.com.br/politica/lula-chama-diretora-do-fmi-de-mulherzinha-e-critica-previsoes-sobre-o-brasil/"
+      },
+      {
+        "title": "Folha de Pernambuco — Lula chama diretora-geral do FMI de 'mulherzinha'",
+        "url": "https://www.folhape.com.br/politica/lula-chama-diretora-geral-do-fmi-de-mulherzinha/404060/"
+      },
+      {
+        "title": "Correio 24 Horas — Ativista Greta Thunberg é eleita pessoa do ano pela revista Time (cita 'pirralha')",
+        "url": "https://www.correio24horas.com.br/mundo/ativista-greta-thunberg-e-eleita-pessoa-do-ano-pela-revista-time-1219"
+      },
+      {
+        "title": "CBS News — Jair Bolsonaro calls Greta Thunberg a 'brat'",
+        "url": "https://cbsnews.com/news/jair-bolsonaro-calls-greta-thunberg-brat-brazil-amazon-rainforest-deforestation-2019-12-11"
+      }
+    ]
+  },
+  {
+    "id": "ambos-029",
+    "politician": "ambos",
+    "text": "Atacou publicamente a Petrobras por preços ou lucros e trocou o presidente da estatal em meio à briga.",
+    "context": "Jair Bolsonaro: em março de 2022 chamou de 'crime' o reajuste dos combustíveis e disse que a estatal 'poderia ser privatizada hoje'; demitiu o presidente Joaquim Silva e Luna e trocou o comando da Petrobras quatro vezes no mandato. Lula: após embate do governo contra o pagamento de dividendos extraordinários e cobranças por mais investimento, demitiu Jean Paul Prates em maio de 2024, um dia após o balanço trimestral; as ações caíram cerca de 7%.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Correio Braziliense — Bolsonaro diz que Petrobras cometeu crime contra a população",
+        "url": "https://www.correiobraziliense.com.br/politica/2022/03/4993481-bolsonaro-diz-que-petrobras-cometeu-crime-contra-a-populacao.html"
+      },
+      {
+        "title": "Poder360 — 'Poderia ser privatizada hoje', diz Bolsonaro sobre Petrobras",
+        "url": "https://www.poder360.com.br/governo/poderia-ser-privatizada-hoje-diz-bolsonaro-sobre-petrobras/"
+      },
+      {
+        "title": "A Gazeta — Lula demite Jean Paul Prates da presidência da Petrobras",
+        "url": "https://www.agazeta.com.br/economia/lula-demite-jean-paul-prates-da-presidencia-da-petrobras-0524"
+      },
+      {
+        "title": "Estado de Minas — Lula demite o presidente da Petrobras",
+        "url": "https://www.em.com.br/politica/2024/05/6857384-lula-demite-o-presiidente-da-petrobras.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-030",
+    "politician": "ambos",
+    "text": "Em meio a cerco judicial, passou duas noites abrigado em um local onde a polícia não entraria facilmente.",
+    "context": "Lula: entre 5 e 7 de abril de 2018, após a ordem de prisão de Moro, ficou no Sindicato dos Metalúrgicos do ABC em São Bernardo, cercado por militantes que chegaram a impedir sua saída. Jair Bolsonaro: entre 12 e 14 de fevereiro de 2024, dias depois de ter o passaporte apreendido na Operação Tempus Veritatis, hospedou-se na embaixada da Hungria, como revelou o New York Times; o Itamaraty convocou o embaixador húngaro, a PF passou a investigar e ele disse que 'não há crime nenhum'.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Migalhas — Lula se entrega à PF",
+        "url": "https://www.migalhas.com.br/quentes/278007/lula-se-entrega-a-pf"
+      },
+      {
+        "title": "Exame — Lula tenta deixar sede de sindicato, mas simpatizantes impedem saída",
+        "url": "https://exame.com/brasil/lula-tenta-deixar-sede-de-sindicato-mas-simpatizantes-impedem-saida"
+      },
+      {
+        "title": "Agência Brasil — Bolsonaro se hospedou na embaixada da Hungria após perder passaporte",
+        "url": "https://agenciabrasil.ebc.com.br/politica/noticia/2024-03/bolsonaro-se-hospedou-na-embaixada-da-hungria-apos-perder-passaporte"
+      },
+      {
+        "title": "Folha de Pernambuco — 'Não há crime nenhum', diz Bolsonaro sobre ter passado dois dias na Embaixada da Hungria",
+        "url": "https://www.folhape.com.br/politica/nao-ha-crime-nenhum-diz-bolsonaro-sobre-ter-passado-dois-dias-na/325534/"
+      }
+    ]
+  }
+]
