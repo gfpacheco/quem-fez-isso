@@ -6,15 +6,19 @@ import { cn } from "@/lib/cn";
 
 type StampProps = {
   children: ReactNode;
-  color?: "accent" | "ink";
+  color?: StampColor;
   rotate?: number;
   delay?: number;
   className?: string;
 };
 
-const colorClasses = {
+type StampColor = "accent" | "ink" | "success" | "danger";
+
+const colorClasses: Record<StampColor, string> = {
   accent: "text-accent",
   ink: "text-ink",
+  success: "text-success",
+  danger: "text-danger",
 };
 
 /** Rubber stamp slamming onto the page with an overshoot */

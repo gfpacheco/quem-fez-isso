@@ -42,7 +42,7 @@ export function Hud({ index, total, score, answers }: HudProps) {
 
 function tickClass(i: number, index: number, answer: Answer | undefined) {
   if (answer) {
-    return answer.correct ? "border-accent bg-accent" : "bg-ink";
+    return answer.correct ? "border-success bg-success" : "border-danger bg-danger";
   }
 
   return i === index ? "animate-tick-pulse" : "";

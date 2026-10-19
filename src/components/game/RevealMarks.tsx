@@ -17,7 +17,7 @@ type RevealMarkProps = {
 
 type RevealTagProps = {
   state: SuspectState;
-  /** Red marker tag pinned to the card once revealed */
+  /** Marker tag pinned to the card once revealed */
   tag: string | null;
   className?: string;
 };
@@ -26,6 +26,10 @@ type RevealTagProps = {
 const revealTransition = { delay: 0.75, duration: 0.2 };
 
 const markKinds: Partial<Record<SuspectState, MarkKind>> = { truth: "circle", wrong: "x" };
+
+const markColors: Record<MarkKind, string> = { circle: "stroke-success", x: "stroke-danger" };
+
+const tagColors: Partial<Record<SuspectState, string>> = { truth: "bg-success", wrong: "bg-danger" };
 
 const strokes: Record<MarkShape, { viewBox: string } & Record<MarkKind, ReactNode>> = {
   portrait: {
@@ -40,7 +44,7 @@ const strokes: Record<MarkShape, { viewBox: string } & Record<MarkKind, ReactNod
   },
 };
 
-/** Red marker stroke drawn over a card: a circle for the culprit, an X for a bad bet */
+/** Marker stroke drawn over a card: a green circle for the culprit, a red X for a bad bet */
 export function RevealMark({ state, shape }: RevealMarkProps) {
   const kind = markKinds[state];
 
@@ -58,7 +62,7 @@ export function RevealMark({ state, shape }: RevealMarkProps) {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={revealTransition}
-      className="pointer-events-none absolute inset-0 size-full stroke-accent"
+      className={cn("pointer-events-none absolute inset-0 size-full", markColors[kind])}
       fill="none"
       strokeLinecap="round"
     >
@@ -79,7 +83,7 @@ export function RevealTag({ state, tag, className }: RevealTagProps) {
       transition={revealTransition}
       className={cn(
         "absolute px-2 pt-1 pb-0.5 font-label text-[10px] leading-none font-bold tracking-[0.22em] whitespace-nowrap text-paper uppercase",
-        state === "wrong" ? "bg-ink" : "bg-accent",
+        tagColors[state] ?? "bg-accent",
         className,
       )}
     >

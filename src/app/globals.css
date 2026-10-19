@@ -15,6 +15,8 @@
   --color-mute: #7b7262;
   --color-accent: #d9541a;
   --color-accent-2: #9a3a10;
+  --color-success: #1f7a3c;
+  --color-danger: #c4121c;
   --color-stage: #d6d2ca;
   --color-white: #ffffff;
   --color-transparent: transparent;
@@ -107,6 +109,7 @@
   body {
     background-color: var(--color-stage);
     background-image: radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.35), transparent 60%), var(--grain);
+    background-attachment: fixed;
     color: var(--color-ink);
     font-family: var(--font-body);
     -webkit-tap-highlight-color: transparent;

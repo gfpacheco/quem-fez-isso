@@ -57,22 +57,24 @@ export default function HomePage() {
         lados fizeram a mesma coisa. No fim, a gente mostra o que você só enxerga no político dos outros.
       </p>
 
-      <section className="relative px-5 pt-5">
+      <section className="px-5 pt-5">
         <Kicker style={riseAt(0.6)} className="rise mb-5">
           Os suspeitos
         </Kicker>
-        <ul className="grid grid-cols-2 gap-3">
-          {suspects.map((option, index) => (
-            <li
-              key={option.id}
-              style={riseAt(0.7 + index * 0.12)}
-              className={cn(fichaClasses, "rise px-2 pt-2.5 pb-2", suspectTilts[index])}
-            >
-              <Ficha option={option} />
-            </li>
-          ))}
-        </ul>
-        <HomeStamp />
+        <div className="relative">
+          <ul className="grid grid-cols-2 gap-3">
+            {suspects.map((option, index) => (
+              <li
+                key={option.id}
+                style={riseAt(0.7 + index * 0.12)}
+                className={cn(fichaClasses, "rise px-2 pt-2.5 pb-2", suspectTilts[index])}
+              >
+                <Ficha option={option} />
+              </li>
+            ))}
+          </ul>
+          <HomeStamp />
+        </div>
       </section>
 
       <div className="px-5 pt-8">

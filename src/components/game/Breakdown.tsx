@@ -53,7 +53,7 @@ export function Breakdown({ quotes, answers, byAnswer }: BreakdownProps) {
                     transition={{ delay: 1.2 + row * 0.15 + i * 0.08, duration: 0.35, ease: "backOut" }}
                     className={cn(
                       "block h-[7px] w-[22px] origin-left border-[1.5px]",
-                      hit ? "border-accent bg-accent" : "border-ink bg-ink",
+                      hit ? "border-success bg-success" : "border-danger bg-danger",
                     )}
                   />
                 ))}

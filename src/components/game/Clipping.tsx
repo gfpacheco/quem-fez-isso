@@ -54,13 +54,13 @@ export function Clipping({ quote, page, status }: ClippingProps) {
       </div>
 
       {status === "correct" && (
-        <Stamp color="accent" rotate={-14} delay={0.35} className="top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[54px]">
+        <Stamp color="success" rotate={-14} delay={0.35} className="top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[54px]">
           Acertou
         </Stamp>
       )}
 
       {status === "wrong" && (
-        <Stamp color="ink" rotate={-14} delay={0.35} className="top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[54px]">
+        <Stamp color="danger" rotate={-14} delay={0.35} className="top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-[54px]">
           Errou
         </Stamp>
       )}

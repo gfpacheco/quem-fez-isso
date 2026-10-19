@@ -30,11 +30,11 @@ export function Reveal({ quote, answer, isLast, onNext }: RevealProps) {
         <h2 className="font-display text-2xl leading-none tracking-[0.02em] uppercase">
           {answer.correct ? (
             <>
-              Acertou <span className="text-accent">+{answer.points} pts</span>
+              <span className="text-success">Acertou</span> +{answer.points} pts
             </>
           ) : (
             <>
-              Errou <span className="text-mute">·</span> <span className="text-accent">{culpritLabel(quote)}</span>
+              <span className="text-danger">Errou</span> <span className="text-mute">·</span> <span className="text-accent">{culpritLabel(quote)}</span>
             </>
           )}
         </h2>
