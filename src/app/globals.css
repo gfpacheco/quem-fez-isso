@@ -1,26 +1,231 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+/*
+ * Design tokens for the "Tabloide Sensacionalista" skin: aged newsprint,
+ * black ink, one screaming accent (burnt orange, so it reads as neither side). Every color, font and shadow the components
+ * use is declared here and nowhere else.
+ */
+@theme {
+  --color-*: initial;
+  --color-paper: #efe5cf;
+  --color-paper-2: #e6d9bb;
+  --color-paper-3: #d8c9a3;
+  --color-ink: #15110d;
+  --color-ink-2: #3b3329;
+  --color-mute: #7b7262;
+  --color-accent: #d9541a;
+  --color-accent-2: #9a3a10;
+  --color-stage: #d6d2ca;
+  --color-white: #ffffff;
+  --color-transparent: transparent;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  --font-display: var(--font-anton), "Oswald", Impact, sans-serif;
+  --font-label: var(--font-oswald), "Arial Narrow", sans-serif;
+  --font-body: var(--font-newsreader), "Times New Roman", Georgia, serif;
+  --font-type: var(--font-special-elite), "Courier New", monospace;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+  --shadow-hard: 3px 3px 0 var(--color-ink);
+  --shadow-hard-lg: 4px 4px 0 var(--color-ink);
+  --shadow-hard-accent: 3px 3px 0 var(--color-accent);
+  --shadow-hard-accent-lg: 5px 5px 0 var(--color-accent);
+  --shadow-hard-none: 0 0 0 var(--color-ink);
+
+  --animate-marquee: marquee 14s linear infinite;
+  --animate-flame: flame 0.9s ease-in-out infinite alternate;
+  --animate-tick-pulse: tick-pulse 1s ease-in-out infinite;
+  --animate-rise: rise 0.6s cubic-bezier(0.16, 1, 0.3, 1) both;
+  --animate-fall: fall 5s linear infinite;
+
+  @keyframes marquee {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  @keyframes flame {
+    0% {
+      transform: scale(1) rotate(-6deg);
+    }
+    50% {
+      transform: scale(1.18) rotate(4deg);
+    }
+    100% {
+      transform: scale(1.05) rotate(-3deg);
+    }
+  }
+
+  @keyframes tick-pulse {
+    0%,
+    100% {
+      background-color: transparent;
+    }
+    50% {
+      background-color: var(--color-ink);
+    }
+  }
+
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(18px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  @keyframes fall {
+    0% {
+      transform: translateY(0) rotate(0deg) rotateY(0deg);
+      opacity: 0;
+    }
+    6% {
+      opacity: 1;
+    }
+    100% {
+      transform: translateY(110vh) rotate(var(--fall-spin, 540deg)) rotateY(720deg);
+      opacity: 1;
+    }
   }
 }
 
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+:root {
+  --grain: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='240' height='240'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.16 0'/></filter><rect width='240' height='240' filter='url(%23n)'/></svg>");
+  --stamp-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='300' height='120'><filter id='m'><feTurbulence type='fractalNoise' baseFrequency='0.5' numOctaves='2' seed='7'/><feColorMatrix values='0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -2.4 2.15'/></filter><rect width='300' height='120' filter='url(%23m)'/></svg>");
+  --ruled-lines: repeating-linear-gradient(to bottom, transparent 0 13px, rgba(21, 17, 13, 0.12) 13px 14px);
+}
+
+@layer base {
+  html {
+    color-scheme: light;
+  }
+
+  body {
+    background-color: var(--color-stage);
+    background-image: radial-gradient(ellipse at 50% 0%, rgba(255, 255, 255, 0.35), transparent 60%), var(--grain);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--color-accent);
+    outline-offset: 3px;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+      animation-duration: 0.01ms !important;
+      animation-iteration-count: 1 !important;
+      animation-delay: 0s !important;
+    }
+  }
+}
+
+/* The sheet of newsprint every screen is printed on */
+@utility paper {
+  position: relative;
+  isolation: isolate;
+  background-color: var(--color-paper);
+  color: var(--color-ink);
+
+  &::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background-image: var(--grain);
+    opacity: 0.75;
+    mix-blend-mode: multiply;
+    pointer-events: none;
+    z-index: -1;
+  }
+}
+
+/* Faint ruled lines of a police file card */
+@utility ruled {
+  background-image: var(--ruled-lines);
+}
+
+/* Grungy edge of a rubber stamp or a marker stroke */
+@utility stamp-mask {
+  -webkit-mask-image: var(--stamp-mask);
+  mask-image: var(--stamp-mask);
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+}
+
+/* Printed halftone dots, placed over a positioned parent */
+@utility halftone {
+  position: absolute;
+  inset: 0;
+  background-image: radial-gradient(circle, currentColor 1px, transparent 1.4px);
+  background-size: 5px 5px;
+  pointer-events: none;
+}
+
+/* Torn newspaper clipping edge */
+@utility torn {
+  clip-path: polygon(
+    0 2%,
+    4% 0,
+    9% 2%,
+    15% 0.5%,
+    22% 2%,
+    30% 0,
+    38% 1.5%,
+    47% 0,
+    55% 2%,
+    63% 0.5%,
+    71% 2%,
+    80% 0,
+    88% 1.5%,
+    95% 0,
+    100% 2%,
+    100% 98%,
+    96% 100%,
+    90% 98.5%,
+    82% 100%,
+    74% 98%,
+    66% 100%,
+    58% 98.5%,
+    50% 100%,
+    42% 98%,
+    34% 100%,
+    26% 98.5%,
+    18% 100%,
+    10% 98%,
+    4% 100%,
+    0 98%
+  );
+}
+
+/* Staggered entrance; delay via --rise-delay */
+@utility rise {
+  animation: var(--animate-rise);
+  animation-delay: var(--rise-delay, 0s);
+}
+
+/* Confetti drop; each scrap sets its own --fall-duration, --fall-delay and --fall-spin */
+@utility fall {
+  animation: var(--animate-fall);
+  animation-duration: var(--fall-duration, 5s);
+  animation-delay: var(--fall-delay, 0s);
+}
+
+/* Big accent drop cap opening a context paragraph */
+@utility drop-cap {
+  &::first-letter {
+    font-family: var(--font-display);
+    font-size: 2.25em;
+    line-height: 0.8;
+    float: left;
+    margin: 3px 6px 0 0;
+    color: var(--color-accent);
+  }
 }

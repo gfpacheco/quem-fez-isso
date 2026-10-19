@@ -1,0 +1,734 @@
+[
+  {
+    "id": "lula-007",
+    "politician": "lula",
+    "text": "Disse que Zelensky é \"tão responsável quanto o Putin\" pela guerra, porque \"numa guerra não existe só um culpado\".",
+    "context": "Entrevista à revista Time publicada em 4 de maio de 2022, sobre Volodymyr Zelensky, durante a pré-campanha. Assessores de Zelensky e governos europeus criticaram a fala.",
+    "year": 2022,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Lula diz que Putin e Zelensky têm culpa idêntica pela guerra",
+        "url": "https://www.poder360.com.br/midia/lula-diz-que-putin-e-zelensky-tem-culpa-identica-pela-guerra/"
+      },
+      {
+        "title": "A Gazeta – Lula diz que Zelenski é tão responsável quanto Putin pela guerra da Ucrânia",
+        "url": "https://www.agazeta.com.br/mundo/lula-diz-que-zelenski-e-tao-responsavel-quanto-putin-pela-guerra-da-ucrania-0522"
+      }
+    ]
+  },
+  {
+    "id": "lula-008",
+    "politician": "lula",
+    "text": "Disse que os Estados Unidos precisam \"parar de incentivar a guerra\" e que a União Europeia precisa \"começar a falar em paz\".",
+    "context": "Declaração a jornalistas em Pequim, em 15 de abril de 2023, após reunião com Xi Jinping. A Casa Branca respondeu que o Brasil estava 'papagueando propaganda russa e chinesa'.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – 'É preciso que os EUA parem de incentivar a guerra', diz Lula",
+        "url": "https://www.poder360.com.br/europa-em-guerra/e-preciso-que-os-eua-parem-de-incentivar-a-guerra-diz-lula/"
+      },
+      {
+        "title": "Metrópoles – 'É preciso que os EUA parem de incentivar a guerra e comecem a falar em paz', diz Lula na China",
+        "url": "https://www.metropoles.com/brasil/e-preciso-que-os-eua-parem-de-incentivar-a-guerra-e-comecem-a-falar-em-paz-diz-lula-na-china"
+      }
+    ]
+  },
+  {
+    "id": "lula-009",
+    "politician": "lula",
+    "text": "Disse que \"o conceito de democracia é relativo\" e que a Venezuela tem mais eleições do que o Brasil.",
+    "context": "Entrevista à Rádio Gaúcha em 29 de junho de 2023, ao ser questionado por que não classifica o regime de Nicolás Maduro como antidemocrático. O ministro Gilmar Mendes rebateu: 'O conceito de democracia não é relativo'.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Conceito de democracia é relativo, diz Lula sobre Venezuela",
+        "url": "https://www.poder360.com.br/governo/conceito-de-democracia-e-relativo-diz-lula-sobre-venezuela/"
+      },
+      {
+        "title": "Correio Braziliense – Lula sobre Venezuela: conceito de democracia é relativo para você e para mim",
+        "url": "https://www.correiobraziliense.com.br/politica/2023/06/5105586-lula-sobre-venezuela-conceito-de-democracia-e-relativo-para-voce-e-para-mim.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-010",
+    "politician": "lula",
+    "text": "Afirmou que se construiu uma \"narrativa\" contra a Venezuela, de antidemocracia e autoritarismo.",
+    "context": "Declaração ao receber Nicolás Maduro no Palácio do Planalto, em 29 de maio de 2023, na véspera da reunião de presidentes da América do Sul. Chile e Uruguai criticaram publicamente a fala; ONGs de direitos humanos também reagiram.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Aos Fatos – Ao defender Maduro, Lula omite e distorce dados sobre a Venezuela",
+        "url": "https://www.aosfatos.org/noticias/lula-venezuela-defesa-maduro/"
+      },
+      {
+        "title": "Poder360 – Lula disse ao menos 40 frases controversas em 10 meses de governo",
+        "url": "https://www.poder360.com.br/governo/lula-disse-ao-menos-40-frases-controversas-em-10-meses-de-governo/"
+      }
+    ]
+  },
+  {
+    "id": "lula-011",
+    "politician": "lula",
+    "text": "Disse que, se Putin viesse ao Brasil, \"não tem por que ele ser preso\".",
+    "context": "Entrevista ao canal indiano Firstpost durante o G20 de Nova Délhi, em 9 de setembro de 2023, sobre Vladimir Putin, alvo de mandado de prisão do Tribunal Penal Internacional. Dois dias depois recuou e disse que 'quem decide é a Justiça'.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Lula diz que Putin não será preso se vier ao Brasil",
+        "url": "https://www.poder360.com.br/governo/lula-diz-que-putin-nao-sera-preso-se-vier-ao-brasil/"
+      },
+      {
+        "title": "Poder360 – Justiça decidirá sobre eventual prisão de Putin no Brasil, diz Lula",
+        "url": "https://www.poder360.com.br/justica/justica-decidira-sobre-eventual-prisao-de-putin-no-brasil-diz-lula/"
+      }
+    ]
+  },
+  {
+    "id": "lula-012",
+    "politician": "lula",
+    "text": "Disse que só vai estar tudo bem quando \"foder esse Moro\".",
+    "context": "Entrevista à TV 247 em 21 de março de 2023, relembrando o período em que esteve preso em Curitiba. Hamilton Mourão e Sergio Moro reagiram; no dia seguinte a PF prendeu membros do PCC que planejavam matar Moro.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Metrópoles – Mourão sai em defesa de Moro e ataca Lula",
+        "url": "https://www.metropoles.com/brasil/politica-brasil/mourao-sai-em-defesa-de-moro-e-ataca-lula-esta-fodendo-o-pais"
+      },
+      {
+        "title": "Congresso em Foco – Lula deu bom dia a Sergio Moro",
+        "url": "https://www.congressoemfoco.com.br/coluna/10198/lula-deu-bom-dia-a-sergio-moro"
+      }
+    ]
+  },
+  {
+    "id": "lula-013",
+    "politician": "lula",
+    "text": "Chamou de \"mais uma armação do Moro\" a operação da PF contra um plano do PCC para matar Sergio Moro, dizendo que investigaria antes de concluir qualquer coisa.",
+    "context": "Dito em 23 de março de 2023, um dia após a PF deflagrar a Operação Sequaz contra um plano do PCC para matar Sergio Moro. A Justiça tornou públicas as provas, e Lula admitiu ter feito a acusação sem elementos.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Lula chama plano do PCC de 'mais uma armação do Moro'",
+        "url": "https://www.poder360.com.br/governo/lula-chama-plano-do-pcc-de-mais-uma-armacao-do-moro/"
+      },
+      {
+        "title": "Aos Fatos – Juíza que Lula acusou de integrar 'armação do Moro' só assumiu operação após PF pedir prisões",
+        "url": "https://www.aosfatos.org/noticias/gabriela-hardt-lula-pcc-armacao-do-moro/"
+      }
+    ]
+  },
+  {
+    "id": "lula-015",
+    "politician": "lula",
+    "text": "Disse que a Globo \"não merece confiança\", está \"sob suspeição\" e \"certamente está com raiva\" dele.",
+    "context": "Caminhada de campanha em Ipatinga (MG), em 16 de outubro de 2026, após Flávio Bolsonaro almoçar com a cúpula da Globo antes de sabatina no Jornal Nacional. A emissora disse que a visita partiu da campanha de Flávio.",
+    "year": 2026,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "CNN Brasil – Globo 'não merece confiança', diz Lula após almoço de Flávio na emissora",
+        "url": "https://www.cnnbrasil.com.br/eleicoes/globo-nao-merece-confianca-diz-lula-apos-almoco-de-flavio-na-emissora/"
+      }
+    ]
+  },
+  {
+    "id": "lula-016",
+    "politician": "lula",
+    "text": "Disse que \"a única coisa desajustada neste país\" é o Banco Central e que seu presidente \"tem lado político e trabalha para prejudicar o Brasil\".",
+    "context": "Entrevista à CBN em 18 de junho de 2024, atacando Roberto Campos Neto, então presidente do BC, por manter a Selic em 10,5%. Lula comparou Campos Neto a Sergio Moro.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Lula diz que Campos Neto trabalha contra o país e o compara a Moro",
+        "url": "https://www.poder360.com.br/governo/lula-diz-que-so-bc-esta-desajustado-e-promete-brasil-como-em-2010/"
+      },
+      {
+        "title": "SBT News – Lula diz que presidente do Banco Central tem lado político e trabalha para prejudicar o Brasil",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-diz-que-presidente-do-banco-central-tem-lado-politico-e-trabalha-para-prejudicar-o-brasil"
+      }
+    ]
+  },
+  {
+    "id": "lula-017",
+    "politician": "lula",
+    "text": "Disse que o país tem quase 30 milhões de pessoas com \"algum desequilíbrio de parafuso\", referindo-se a transtornos mentais.",
+    "context": "Reunião com ministros e governadores sobre violência nas escolas, em Brasília, em abril de 2023. A Associação Brasileira de Psiquiatria repudiou a fala; Lula pediu desculpas nas redes sociais.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "CNN Brasil – Lula pede desculpas sobre fala em que diz que pessoas com transtornos mentais têm 'desequilíbrio de parafuso'",
+        "url": "https://www.cnnbrasil.com.br/politica/lula-pede-desculpas-sobre-fala-em-que-diz-que-pessoas-com-transtornos-mentais-tem-desequilibrio-de-parafuso/"
+      }
+    ]
+  },
+  {
+    "id": "lula-018",
+    "politician": "lula",
+    "text": "Disse, antes de uma cirurgia, que ninguém o veria \"de muleta\" nem \"de andador\", e sim \"sempre bonito\".",
+    "context": "Programa 'Conversa com o Presidente', em 26 de setembro de 2023, dias antes de cirurgia no quadril. A senadora Mara Gabrilli e o ativista Ivan Baron classificaram a fala como capacitista.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Fala de Lula sobre andador é capacitista, diz Mara Gabrilli",
+        "url": "https://www.poder360.com.br/congresso/fala-de-lula-sobre-andador-e-capacitista-diz-mara-gabrilli/"
+      },
+      {
+        "title": "Itatiaia – Lula é acusado de capacitismo ao dizer que não vão vê-lo de andador após cirurgia",
+        "url": "https://www.itatiaia.com.br/politica/lula-e-acusado-de-capacitismo-ao-dizer-que-nao-vao-ve-lo-de-andador-apos-cirurgia/"
+      }
+    ]
+  },
+  {
+    "id": "lula-019",
+    "politician": "lula",
+    "text": "Disse que \"a obesidade faz tanto mal quanto a fome\" e que é por isso que um ministro \"anda de bicicleta\".",
+    "context": "Lançamento do Pronasci no Palácio do Planalto, em 15 de março de 2023, referindo-se ao então ministro da Justiça Flávio Dino. Em junho, voltou a brincar com o peso de Dino ('vamos trazer pouca comida pra ele').",
+    "year": 2023,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Estado de Minas – Após dizer que obesidade é doença, Lula vira alvo nas redes sociais",
+        "url": "https://www.em.com.br/app/noticia/politica/2023/03/16/interna_politica,1469463/apos-dizer-que-obesidade-e-doenca-lula-vira-alvo-nas-redes-sociais.shtml"
+      },
+      {
+        "title": "SBT News – Lula volta a fazer piada com a obesidade de Dino",
+        "url": "https://sbtnews.sbt.com.br/noticia/brasil/250220-lula-volta-a-fazer-piada-com-a-obesidade-de-dino-pouca-comida-para-ele"
+      }
+    ]
+  },
+  {
+    "id": "lula-020",
+    "politician": "lula",
+    "text": "Disse que toda a desgraça causada pela escravidão \"também causou uma coisa boa\": a miscigenação.",
+    "context": "Discurso improvisado na Terra Indígena Raposa Serra do Sol (RR), em 14 de março de 2023, na Assembleia Geral dos Povos Indígenas. A fala foi criticada inclusive por apoiadores e pelo movimento negro.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "BNews – 'Causou uma coisa boa, que foi mistura', diz Lula sobre escravização no Brasil",
+        "url": "https://www.bnews.com.br/noticias/politica/video-causou-uma-coisa-boa-que-foi-mistura-diz-lula-sobre-escravizacao-no-brasil.html"
+      },
+      {
+        "title": "O Tempo – Lula coleciona falas polêmicas em seu terceiro governo; relembre",
+        "url": "https://www.otempo.com.br/politica/governo/lula-coleciona-falas-polemicas-em-seu-terceiro-governo-relembre-1.3329059"
+      }
+    ]
+  },
+  {
+    "id": "lula-021",
+    "politician": "lula",
+    "text": "Disse ter \"profunda gratidão ao continente africano\" por tudo o que foi produzido nos 350 anos de escravidão no Brasil.",
+    "context": "Entrevista coletiva em Cabo Verde, em 19 de julho de 2023, ao lado do presidente José Maria Neves. A repercussão levou o Planalto a reforçar a equipe de redatores de discursos; o ministro Silvio Almeida defendeu a fala.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Somos gratos à África pelo que foi produzido na escravidão, diz Lula",
+        "url": "https://www.poder360.com.br/governo/somos-gratos-a-africa-pelo-que-foi-produzido-na-escravidao-diz-lula/"
+      },
+      {
+        "title": "Metrópoles – Lula agradece pelo que foi produzido durante 350 anos de escravidão",
+        "url": "https://www.metropoles.com/brasil/lula-agradece-pelo-que-foi-produzido-durante-350-anos-de-escravidao"
+      }
+    ]
+  },
+  {
+    "id": "lula-022",
+    "politician": "lula",
+    "text": "Disse a uma jovem negra que \"uma afrodescendente assim gosta de um batuque\" e perguntou se ela era cantora ou \"namorada de alguém\".",
+    "context": "Evento na fábrica da Volkswagen em São Bernardo do Campo (SP), em 2 de fevereiro de 2024, dirigindo-se a uma jovem negra que era a melhor aprendiz da empresa. Um deputado do PL apresentou notícia-crime por racismo à PGR.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – 'Uma afrodescendente assim gosta de um batuque', diz Lula em SP",
+        "url": "https://www.poder360.com.br/governo/uma-afrodescendente-assim-gosta-de-um-batuque-diz-lula-em-sp/"
+      },
+      {
+        "title": "Metrópoles – Lula diz a jovem negra que 'afrodescendente gosta de um batuque'",
+        "url": "https://www.metropoles.com/sao-paulo/lula-jovem-negra"
+      }
+    ]
+  },
+  {
+    "id": "lula-023",
+    "politician": "lula",
+    "text": "Disse que \"nenhuma mulher quer namorar um ajudante geral\", porque ajudante geral \"não ganha nada\".",
+    "context": "Lançamento da pedra fundamental de um campus do Instituto Federal no Complexo do Alemão (RJ), em 7 de fevereiro de 2024, ao defender que jovens tenham uma profissão.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "CNN Brasil – Lula diz que 'nenhuma mulher quer namorar' um ajudante geral",
+        "url": "https://www.cnnbrasil.com.br/politica/lula-diz-que-nenhuma-mulher-quer-namorar-um-ajudante-geral/"
+      },
+      {
+        "title": "Correio Braziliense – Lula no Complexo do Alemão: 'nenhuma mulher quer namorar um ajudante geral'",
+        "url": "https://www.correiobraziliense.com.br/politica/2024/02/6799342-lula-no-complexo-do-alemao-nenhuma-mulher-quer-namorar-um-ajudante-geral.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-024",
+    "politician": "lula",
+    "text": "Disse que a mulher com profissão não depende do pai nem de homem nenhum para pedir dinheiro \"para comprar um batom ou uma calcinha\".",
+    "context": "Evento no Palácio do Planalto de anúncio de 100 novos campi de Institutos Federais, em 12 de março de 2024, dias após o almoço do Dia da Mulher. A fala foi listada entre as 'gafes' do terceiro mandato pela imprensa.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Folha de Pernambuco – 'Mais apaixonado por amante', 'parar de ter filho': as gafes de Lula no terceiro mandato",
+        "url": "https://www.folhape.com.br/politica/mais-apaixonado-por-amante-parar-de-ter-filho-as-gafes-de-lula/383294/"
+      },
+      {
+        "title": "Poder360 – Relembre declarações controversas e lapsos de Lula no 3º mandato",
+        "url": "https://www.poder360.com.br/poder-governo/relembre-declaracoes-controversas-e-lapsos-de-lula-no-3o-mandato/"
+      }
+    ]
+  },
+  {
+    "id": "lula-025",
+    "politician": "lula",
+    "text": "Perguntou a uma mãe de cinco filhos, de 27 anos, quando ela ia \"fechar a porteira\" e disse que ela \"não pode mais ter filho\".",
+    "context": "Entrega de apartamentos do Minha Casa, Minha Vida em Maceió, em 10 de maio de 2024, a uma beneficiária mãe de cinco filhos. Meses depois repetiu o conselho a uma jovem com três filhos em Fortaleza.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 – 'Quando vai fechar a porteira?', diz Lula a mulher que tem 5 filhos",
+        "url": "https://www.poder360.com.br/governo/quando-vai-fechar-a-porteira-diz-lula-a-mulher-que-tem-5-filhos/"
+      },
+      {
+        "title": "Folha de Pernambuco – Lula sugere a beneficiária do Minha Casa, Minha Vida que 'pare de ter filhos'",
+        "url": "https://www.folhape.com.br/politica/lula-sugere-a-beneficiaria-do-minha-casa-minha-vida-que-pare-de-ter/343978/"
+      }
+    ]
+  },
+  {
+    "id": "lula-026",
+    "politician": "lula",
+    "text": "Disse que a violência contra a mulher aumenta depois dos jogos de futebol, mas que \"se o cara é corintiano, tudo bem\".",
+    "context": "Reunião com empresários da indústria de alimentos no Planalto, em 16 de julho de 2024. A ministra das Mulheres, Cida Gonçalves, chamou de 'piada machista'; dias depois ele disse que 'homem que é homem não bate em mulher'.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Diário de Pernambuco – Lula critica a violência doméstica, mas diz 'tudo bem' se for corintiano",
+        "url": "https://www.diariodepernambuco.com.br/noticia/politica/2024/07/lula-critica-a-violencia-domestica-mas-diz-tudo-bem-se-for-corinthian.html"
+      },
+      {
+        "title": "Poder360 – 'Homem que é homem não bate em mulher', diz Lula após gafe",
+        "url": "https://www.poder360.com.br/governo/homem-que-e-homem-nao-bate-em-mulher-diz-lula/"
+      }
+    ]
+  },
+  {
+    "id": "lula-027",
+    "politician": "lula",
+    "text": "Disse que \"é a mulher que sabe as coisas que têm dentro da geladeira\".",
+    "context": "Live com Guilherme Boulos, então candidato à Prefeitura de São Paulo, em 19 de outubro de 2024, ao aconselhá-lo sobre como falar com eleitoras.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 – Mulher é quem sabe o que tem dentro da geladeira, diz Lula",
+        "url": "https://www.poder360.com.br/poder-governo/mulher-e-quem-sabe-o-que-tem-dentro-da-geladeira-diz-lula/"
+      },
+      {
+        "title": "Gazeta do Povo – Em live com Boulos, Lula diz que mulher é quem sabe o que tem na geladeira",
+        "url": "https://www.gazetadopovo.com.br/republica/em-live-com-boulos-lula-diz-que-mulher-e-quem-sabe-o-que-tem-na-geladeira/"
+      }
+    ]
+  },
+  {
+    "id": "lula-028",
+    "politician": "lula",
+    "text": "Disse se considerar \"um amante da democracia, não um marido\", porque os amantes são \"mais apaixonados pela amante do que pelas mulheres\".",
+    "context": "Cerimônia pelos dois anos do 8 de janeiro, no Palácio do Planalto, em 8 de janeiro de 2025, com a primeira-dama no palco. A fala arrancou risos da plateia e críticas nas redes.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "SBT News – 'Maridos são mais apaixonados nas amantes do que nas mulheres', diz Lula ao celebrar democracia",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/maridos-sao-mais-apaixonados-nas-amantes-que-nas-mulheres-diz-lula-ao-celebrar-democracia"
+      },
+      {
+        "title": "Congresso em Foco – Dez vezes em que Lula e Bolsonaro foram considerados machistas",
+        "url": "https://www.congressoemfoco.com.br/noticia/106945/dez-vezes-em-que-lula-e-bolsonaro-foram-considerados-machistas"
+      }
+    ]
+  },
+  {
+    "id": "lula-029",
+    "politician": "lula",
+    "text": "Justificou a nomeação de uma ministra dizendo ter colocado \"essa mulher bonita\" para cuidar das relações com o Congresso.",
+    "context": "Assinatura da MP do Crédito do Trabalhador no Planalto, em 12 de março de 2025, sobre a nomeação de Gleisi Hoffmann como ministra. A oposição chamou de misoginia; Gleisi disse que os críticos eram 'oportunistas'.",
+    "year": 2025,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco – Líder da oposição critica fala de Lula sobre aparência de Gleisi",
+        "url": "https://congressoemfoco.com.br/noticia/106913/lider-da-oposicao-critica-fala-de-lula-sobre-aparencia-de-gleisi"
+      },
+      {
+        "title": "Poder360 – Gleisi defende Lula e diz que bolsonaristas são 'oportunistas'",
+        "url": "https://www.poder360.com.br/poder-governo/gleisi-defende-lula-e-diz-que-bolsonaristas-sao-oportunistas/"
+      }
+    ]
+  },
+  {
+    "id": "lula-030",
+    "politician": "lula",
+    "text": "Chamou a diretora-geral do FMI de \"mulherzinha\" ao contar que ela previu crescimento de 0,8% para o Brasil.",
+    "context": "Abertura da Feicon, em São Paulo, em 8 de abril de 2025, referindo-se a Kristalina Georgieva, diretora-geral do FMI, sem citá-la pelo nome. A fala foi criticada como machista e diplomaticamente inadequada.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Folha de Pernambuco – Lula chama diretora-geral do FMI de 'mulherzinha'",
+        "url": "https://www.folhape.com.br/politica/lula-chama-diretora-geral-do-fmi-de-mulherzinha/404060/"
+      },
+      {
+        "title": "InfoMoney – Lula chama diretora do FMI de 'mulherzinha' e critica previsões sobre o Brasil",
+        "url": "https://www.infomoney.com.br/politica/lula-chama-diretora-do-fmi-de-mulherzinha-e-critica-previsoes-sobre-o-brasil/"
+      }
+    ]
+  },
+  {
+    "id": "lula-031",
+    "politician": "lula",
+    "text": "Disse que os usuários de drogas são os responsáveis pelos traficantes e que \"os traficantes são vítimas dos usuários\".",
+    "context": "Entrevista coletiva em Jacarta, na Indonésia, em 24 de outubro de 2025, ao comentar a ofensiva dos EUA no Caribe. Horas depois escreveu no X que a frase foi 'mal colocada', sem pedir desculpas.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Traficantes 'são vítimas dos usuários' de drogas, diz Lula",
+        "url": "https://www.poder360.com.br/poder-governo/traficantes-sao-vitimas-dos-usuarios-de-drogas-diz-lula/"
+      },
+      {
+        "title": "Poder360 – Frase sobre traficante ser vítima foi mal colocada, diz Lula",
+        "url": "https://www.poder360.com.br/poder-governo/lula-se-retrata-sobre-fala-sobre-traficantes-mal-colocada/"
+      }
+    ]
+  },
+  {
+    "id": "lula-032",
+    "politician": "lula",
+    "text": "Disse ser crime hediondo estuprar uma menina de 12 anos e depois querer que ela tenha \"um filho de um monstro\".",
+    "context": "Entrevista à rádio CBN em 18 de junho de 2024, sobre o PL 1.904/2024, que equiparava aborto após 22 semanas a homicídio. Opositores acusaram-no de chamar bebês de 'monstros'; o Planalto editou o trecho ao divulgar o vídeo.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Lula diz que 'monstros' sairão de meninas estupradas e oposição critica",
+        "url": "https://www.poder360.com.br/poder-congresso/lula-diz-que-monstros-sairao-de-meninas-estupradas-e-oposicao-critica/"
+      },
+      {
+        "title": "Congresso em Foco – Lula volta a criticar PL do estupro e defende que aborto seja tratado como questão de saúde pública",
+        "url": "https://www.congressoemfoco.com.br/area/governo/lula-volta-a-criticar-pl-do-estupro-e-defende-que-aborto-seja-tratado-como-questao-de-saude-publica/"
+      }
+    ]
+  },
+  {
+    "id": "lula-033",
+    "politician": "lula",
+    "text": "Disse que \"homem não gosta de toque\" e que \"as mulheres aprendem a tomar toque desde pequenas\".",
+    "context": "Comício em Belém (PA), em 28 de setembro de 2026, ao defender o exame de próstata e chamar homens de 'covardes'. A oposição classificou a frase de 'abjeta'; no dia seguinte, em Salvador, ele admitiu ter usado 'uma palavra ou frase errada'.",
+    "year": 2026,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Declaração de Lula sobre toque em mulheres é abjeta, diz Daniella Marques",
+        "url": "https://www.poder360.com.br/poder-eleicoes-2026/declaracao-de-lula-sobre-toque-em-mulheres-e-abjeta-diz-daniella-marques/"
+      },
+      {
+        "title": "SBT News – Lula: Homem não gosta de toque, mulher aprende desde pequena",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/lula-homem-nao-gosta-de-toque-mulher-aprende-desde-pequena"
+      }
+    ]
+  },
+  {
+    "id": "lula-035",
+    "politician": "lula",
+    "text": "Disse que, \"se tem alguém possuído pelo demônio\", é o adversário, e o chamou de \"fariseu\", \"fajuto\" e \"genocida\".",
+    "context": "Primeiro ato oficial da campanha de 2022, na fábrica da Volkswagen em São Bernardo do Campo, em 16 de agosto de 2022, sobre Jair Bolsonaro, em aceno ao eleitorado evangélico.",
+    "year": 2022,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 – 'Se tem alguém possuído pelo demônio, é Bolsonaro', diz Lula",
+        "url": "https://www.poder360.com.br/eleicoes/se-tem-alguem-possuido-pelo-demonio-e-bolsonaro-diz-lula/"
+      },
+      {
+        "title": "A Gazeta – Lula abre campanha e diz que Bolsonaro é 'possuído pelo demônio'",
+        "url": "https://www.agazeta.com.br/brasil/lula-abre-campanha-e-diz-que-bolsonaro-e-possuido-pelo-demonio--0822"
+      }
+    ]
+  },
+  {
+    "id": "lula-036",
+    "politician": "lula",
+    "text": "Disse que a polícia não vai às favelas \"apenas para bater\", mas que \"vai bater em quem tem que bater\".",
+    "context": "Inauguração da plataforma P-57 da Petrobras, em Angra dos Reis (RJ), em 7 de outubro de 2010, ao elogiar as UPPs nas favelas do Rio, como Alemão e Manguinhos.",
+    "year": 2010,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Jornal do Brasil – Lula diz que polícia vai 'bater em quem tem que bater' no Rio",
+        "url": "https://www.jb.com.br/rio/noticias/2010/10/07/lula-diz-que-policia-vai-bater-em-quem-tem-que-bater-no-rio.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-037",
+    "politician": "lula",
+    "text": "Comparou um dissidente cubano morto em greve de fome a \"bandidos que estão presos em São Paulo\", dizendo para imaginar se todos eles entrassem em greve de fome e pedissem liberdade.",
+    "context": "Declaração em março de 2010, após a morte do dissidente cubano Orlando Zapata em greve de fome, dias depois de visita a Cuba. Houve críticas até dentro do PT; o dissidente Guillermo Fariñas acusou-o de má-fé.",
+    "year": 2010,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Jornal do Brasil – Lula compara preso político de Cuba aos bandidos de SP",
+        "url": "https://www.jb.com.br/pais/noticias/2010/03/10/lula-compara-preso-politico-de-cuba-aos-bandidos-de-sp.html"
+      },
+      {
+        "title": "Jornal de Brasília – Opinião de Lula sobre presos cubanos desencadeia críticas",
+        "url": "https://jornaldebrasilia.com.br/noticias/mundo/opiniao-de-lula-sobre-presos-cubanos-desencadeia-criticas/"
+      }
+    ]
+  },
+  {
+    "id": "lula-038",
+    "politician": "lula",
+    "text": "Disse que o que seu partido fez do ponto de vista eleitoral \"é o que é feito no Brasil sistematicamente\".",
+    "context": "Entrevista à TV francesa em Paris, em 15 de julho de 2005, exibida no Fantástico, sobre o caixa dois do PT no mensalão. Em outubro mudou o tom: 'O PT nunca poderia ter praticado coisas intoleráveis como caixa dois'.",
+    "year": 2005,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Transcrição oficial da entrevista de 15/07/2005 (acervo Fundação Perseu Abramo)",
+        "url": "https://siac.fpabramo.org.br/uploads/acaoinstitucional/Entrevista_Presidente_Lula_2005_07_15.pdf"
+      },
+      {
+        "title": "Congresso em Foco – Lula admite cassação de Dirceu e culpa por crise",
+        "url": "https://www.congressoemfoco.com.br/noticia/103944/lula-admite-cassacao-de-dirceu-e-culpa-por-crise"
+      }
+    ]
+  },
+  {
+    "id": "lula-039",
+    "politician": "lula",
+    "text": "Disse que \"quem quer vender dossiê é bandido, e quem compra é tão bandido quanto\", e chamou os envolvidos de \"aloprados\".",
+    "context": "Setembro de 2006, após a PF apreender R$ 1,7 milhão com petistas que tentavam comprar um dossiê contra José Serra (caso dos 'aloprados'). O episódio levou a eleição presidencial ao segundo turno.",
+    "year": 2006,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Gazeta do Povo – Lula 'no mínimo avalizou' compra de dossiê, diz Goldman",
+        "url": "https://www.gazetadopovo.com.br/vida-publica/lula-no-minimo-avalizou-compra-de-dossie-diz-goldman-5ffahqewl3qagy7gjv5fu0ksu"
+      },
+      {
+        "title": "Congresso em Foco – Lula afirma que não seria beneficiado com dossiê",
+        "url": "https://www.congressoemfoco.com.br/noticia/102395/lula-afirma-que-nao-seria-beneficiado-com-dossie"
+      }
+    ]
+  },
+  {
+    "id": "lula-040",
+    "politician": "lula",
+    "text": "Disse que o Ibama \"parece que é um órgão contra o governo\" e que \"não dá para ficar nessa lenga-lenga\".",
+    "context": "Entrevista à Rádio Diário FM, de Macapá, em 12 de fevereiro de 2025, cobrando a licença para a Petrobras perfurar na Foz do Amazonas (Margem Equatorial). O Ibama concedeu a licença em outubro de 2025.",
+    "year": 2025,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco – Lula diz que quer explorar petróleo na Foz do Amazonas e critica Ibama",
+        "url": "https://congressoemfoco.com.br/area/governo/lula-diz-que-quer-explorar-petroleo-na-foz-do-amazonas-e-critica-ibama"
+      },
+      {
+        "title": "Gazeta do Povo – 'Eu quero o petróleo explorado na Margem Equatorial', diz Lula",
+        "url": "https://www.gazetadopovo.com.br/republica/eu-quero-petroleo-explorado-margem-equatorial-lula/"
+      }
+    ]
+  },
+  {
+    "id": "lula-041",
+    "politician": "lula",
+    "text": "Disse que o adversário \"não gosta de gente\", e sim \"de policial\".",
+    "context": "Evento de pré-campanha em maio de 2022, sobre Jair Bolsonaro. Após a repercussão entre policiais, pediu desculpas e disse que queria ter dito 'miliciano'.",
+    "year": 2022,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 – Lula diz que se enganou e pede desculpas a policiais",
+        "url": "https://www.poder360.com.br/eleicoes/lula-disse-que-se-enganou-e-pede-desculpas-a-policiais/"
+      }
+    ]
+  },
+  {
+    "id": "lula-042",
+    "politician": "lula",
+    "text": "Disse a quem quer bater em mulher para \"bater noutro lugar, mas não dentro da sua casa ou no Brasil\".",
+    "context": "Ato de campanha em 22 de agosto de 2022, ao falar da Lei Maria da Penha. A frase foi apontada como infeliz por relativizar a agressão conforme o lugar.",
+    "year": 2022,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco – Dez vezes em que Lula e Bolsonaro foram considerados machistas",
+        "url": "https://www.congressoemfoco.com.br/noticia/106945/dez-vezes-em-que-lula-e-bolsonaro-foram-considerados-machistas"
+      }
+    ]
+  },
+  {
+    "id": "lula-043",
+    "politician": "lula",
+    "text": "Disse que não ia \"ficar remoendo o passado\" ao falar do golpe de 1964, porque \"isso já faz parte da história\".",
+    "context": "Entrevista à RedeTV! em 27 de fevereiro de 2024, sobre os 60 anos do golpe de 1964. Mais de 150 entidades, entre elas a ABI e o Instituto Vladimir Herzog, chamaram a fala de 'equivocada'.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 – Lula precisa relembrar carreira sindical, diz ONG",
+        "url": "https://www.poder360.com.br/governo/lula-precisa-relembrar-carreira-sindical-diz-ong"
+      },
+      {
+        "title": "Estado de Minas – Movimentos sociais criticam decisão do presidente sobre 60 anos do golpe",
+        "url": "https://www.em.com.br/politica/2024/03/6818231-lula-movimentos-sociais-criticam-decisao-do-presidente-sobre-60-anos-do-golpe.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-044",
+    "politician": "lula",
+    "text": "Mandou cancelar os atos oficiais pelos 60 anos do golpe de 1964 e orientou ministros a não se envolver no tema, para não melindrar as Forças Armadas.",
+    "context": "Março de 2024. O Ministério dos Direitos Humanos cancelou a solenidade marcada para 1º de abril no Museu da República; o grupo Prerrogativas chamou o silêncio de 'inadmissível'.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 – Prerrogativas diz que silêncio sobre o golpe de 64 é 'inadmissível'",
+        "url": "https://www.poder360.com.br/brasil/prerrogativas-diz-que-silencio-sobre-o-golpe-de-64-e-inadmissivel/"
+      },
+      {
+        "title": "Estado de Minas – Movimentos sociais criticam decisão do presidente sobre 60 anos do golpe",
+        "url": "https://www.em.com.br/politica/2024/03/6818231-lula-movimentos-sociais-criticam-decisao-do-presidente-sobre-60-anos-do-golpe.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-045",
+    "politician": "lula",
+    "text": "Indicou para o Supremo Tribunal Federal o advogado que o defendeu pessoalmente nos processos da Lava Jato.",
+    "context": "Indicação de Cristiano Zanin em 1º de junho de 2023, para a vaga de Ricardo Lewandowski. Na campanha de 2022, Lula havia criticado Bolsonaro por querer um ministro 'amigo' no STF. O Senado aprovou por 58 a 18.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "O Povo – Lula indica para STF Cristiano Zanin, advogado dele na Lava Jato",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/06/01/lula-indica-para-stf-cristiano-zanin-advogado-dele-na-lava-jato.html"
+      },
+      {
+        "title": "Poder360 – Lula confirma indicação de seu advogado Cristiano Zanin ao STF",
+        "url": "https://www.poder360.com.br/justica/lula-indica-seu-advogado-cristiano-zanin-ao-stf/"
+      }
+    ]
+  },
+  {
+    "id": "lula-046",
+    "politician": "lula",
+    "text": "Manteve no cargo por quase um ano um ministro indiciado pela Polícia Federal por corrupção, lavagem de dinheiro e organização criminosa, dizendo que ele tinha 'o direito de provar que é inocente'.",
+    "context": "Juscelino Filho (União Brasil), ministro das Comunicações, indiciado em junho de 2024 por desvio de emendas via Codevasf. Só deixou o governo em abril de 2025, após denúncia da PGR ao STF.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "InfoMoney – 'Ele tem direito de provar que é inocente', diz Lula sobre ministro indiciado pela PF",
+        "url": "https://www.infomoney.com.br/?p=2495542"
+      },
+      {
+        "title": "Poder360 – Denunciado pela PGR, Juscelino Filho pede demissão do governo",
+        "url": "https://www.poder360.com.br/poder-governo/denunciado-pela-pgr-juscelino-filho-vai-pedir-demissao-do-governo/"
+      }
+    ]
+  },
+  {
+    "id": "lula-047",
+    "politician": "lula",
+    "text": "Anunciou a adesão do Brasil à OPEP+, o cartel dos países produtores de petróleo, na mesma semana em que discursava na conferência do clima da ONU.",
+    "context": "COP28, em Dubai, dezembro de 2023. O Brasil recebeu o anti-prêmio 'Fóssil do Dia' da Climate Action Network; Lula disse que entraria para convencer os produtores a abandonar os combustíveis fósseis.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "InfoMoney – Lula diz que Brasil nunca será membro efetivo da Opep",
+        "url": "https://www.infomoney.com.br/?p=2313919"
+      },
+      {
+        "title": "Movimento Econômico – Brasil ganha anti-prêmio 'Fóssil do Dia' na COP28 por entrar na Opep",
+        "url": "https://movimentoeconomico.com.br/economia/2023/12/04/brasil-ganha-anti-premio-fossil-do-dia-na-cop28-por-entrar-na-opep/"
+      }
+    ]
+  },
+  {
+    "id": "lula-048",
+    "politician": "lula",
+    "text": "Assistiu, ao lado de Vladimir Putin e de outros líderes autoritários, à parada militar na Praça Vermelha, em plena guerra da Ucrânia.",
+    "context": "Dia da Vitória, Moscou, 9 de maio de 2025. O governo ucraniano questionou o papel do Brasil como mediador; Lula chamou as críticas de 'exploração política'.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Folha de Pernambuco – Sob o olhar de Lula, Rússia desfila seu poderio militar",
+        "url": "https://www.folhape.com.br/noticias/sob-o-olhar-de-lula-russia-desfila-seu-poderio-militar/410331/"
+      },
+      {
+        "title": "Poder360 – Lula diz que críticas a ida à Rússia são 'exploração política'",
+        "url": "https://www.poder360.com.br/poder-governo/lula-diz-que-criticas-a-ida-a-russia-e-exploracao-politica/"
+      }
+    ]
+  },
+  {
+    "id": "lula-049",
+    "politician": "lula",
+    "text": "No último dia de mandato, negou a extradição de um ex-militante italiano condenado por quatro assassinatos, contrariando o pedido da Itália.",
+    "context": "Caso Cesare Battisti, 31 de dezembro de 2010. O governo italiano chamou a decisão de 'injusta e gravemente ofensiva'; o STF validou a decisão em 2011. Battisti foi extraditado em 2019.",
+    "year": 2010,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Conjur – Presidente Lula nega extradição e Battisti permanece no Brasil",
+        "url": "https://www.conjur.com.br/2010-dez-31/presidente-lula-nega-extradicao-battisti-permanece-brasil/"
+      },
+      {
+        "title": "Exame – Roma considera recusa do Brasil a extraditar Battisti 'injusta e ofensiva'",
+        "url": "https://exame.com/mundo/roma-considera-recusa-do-brasil-a-extraditar-battisti-injusta-e-ofensiva"
+      }
+    ]
+  },
+  {
+    "id": "lula-051",
+    "politician": "lula",
+    "text": "Recebeu no Palácio do Planalto, com honras de Estado, o chefe de um governo acusado por organizações internacionais de perseguir opositores e fraudar eleições.",
+    "context": "Visita de Nicolás Maduro a Brasília em 29 de maio de 2023, a primeira em oito anos, na véspera da cúpula sul-americana. Lula disse na ocasião que o autoritarismo venezuelano era uma 'narrativa'.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Aos Fatos – Ao defender Maduro, Lula omite e distorce dados sobre a Venezuela",
+        "url": "https://www.aosfatos.org/noticias/lula-venezuela-defesa-maduro/"
+      }
+    ]
+  }
+]
