@@ -1,3 +1,5 @@
+import { Analytics } from "@vercel/analytics/next";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 import type { Metadata, Viewport } from "next";
 import { Anton, Newsreader, Oswald, Special_Elite } from "next/font/google";
 import { cn } from "@/lib/cn";
@@ -45,6 +47,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <div className="paper mx-auto flex min-h-dvh w-full max-w-md flex-1 flex-col overflow-x-clip sm:shadow-[0_30px_60px_-20px_rgba(0,0,0,0.55)]">
           {children}
         </div>
+        <Analytics />
+        <SpeedInsights />
       </body>
     </html>
   );
