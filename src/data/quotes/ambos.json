@@ -632,5 +632,131 @@
         "url": "https://www.folhape.com.br/politica/nao-ha-crime-nenhum-diz-bolsonaro-sobre-ter-passado-dois-dias-na/325534/"
       }
     ]
+  },
+  {
+    "id": "ambos-031",
+    "politician": "ambos",
+    "text": "Escolheu o procurador-geral da República ignorando a lista tríplice eleita pelos próprios procuradores.",
+    "context": "Lula: em novembro de 2023 indicou Paulo Gonet, fora da lista da ANPR, rompendo a praxe que ele mesmo havia iniciado em 2003 e seguido quatro vezes; em 2025 o reconduziu antecipadamente, evitando nova lista. Jair Bolsonaro: em setembro de 2019 escolheu Augusto Aras fora da lista e repetiu a escolha ao reconduzi-lo em julho de 2021; a associação dos procuradores chamou a decisão de 'retrocesso institucional'.",
+    "year": 2023,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Gazeta do Povo — Lula indica Paulo Gonet para comandar PGR após atraso recorde",
+        "url": "https://www.gazetadopovo.com.br/republica/lula-indica-paulo-gonet-para-comandar-procuradoria-geral-da-republica-apos-atraso-recorde/"
+      },
+      {
+        "title": "O Povo — Paulo Gonet pode ficar à frente da PGR por 2 anos e ser reconduzido",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/11/27/paulo-gonet-pode-ficar-a-frente-da-pgr-por-2-anos-e-ser-reconduzido-ao-cargo.html"
+      },
+      {
+        "title": "Agência Senado — Senado aprova recondução de Augusto Aras como procurador-geral da República",
+        "url": "https://www12.senado.leg.br/noticias/materias/2021/08/24/senado-aprova-reconducao-de-augusto-aras-como-procurador-geral-da-republica"
+      },
+      {
+        "title": "Poder360 — Bolsonaro ignora lista tríplice e reconduz Aras para novo mandato de 2 anos",
+        "url": "https://www.poder360.com.br/justica/bolsonaro-ignora-lista-triplice-e-reconduz-aras-para-novo-mandato-de-2-anos/"
+      }
+    ]
+  },
+  {
+    "id": "ambos-032",
+    "politician": "ambos",
+    "text": "Sancionou o Orçamento mantendo intactos R$ 4,9 bilhões para o fundo eleitoral, enquanto vetava outros itens da mesma lei.",
+    "context": "Lula: em janeiro de 2024 sancionou o Orçamento com R$ 4,9 bilhões para o fundão, mais de cinco vezes os R$ 939 milhões propostos pelo próprio governo, vetando R$ 5,6 bilhões em emendas de comissão; repetiu o valor para 2026. Jair Bolsonaro: em janeiro de 2022 sancionou o Orçamento com os mesmos R$ 4,9 bilhões, vetando R$ 3,2 bilhões em outras despesas, meses depois de ter vetado na LDO a elevação do fundo para R$ 5,7 bilhões.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Poder360 — Lula sanciona Orçamento e corta R$ 5,6 bi de emendas de comissão",
+        "url": "https://www.poder360.com.br/governo/lula-sanciona-orcamento-e-corta-r-56-bi-de-emendas-de-comissao/"
+      },
+      {
+        "title": "InfoMoney — Lula sanciona Orçamento com R$ 4,9 bi para fundo eleitoral e corta R$ 5,6 bi de emendas",
+        "url": "https://www.infomoney.com.br/politica/lula-sanciona-orcamento-com-r-49-bi-para-fundo-eleitoral-e-corta-r-56-bi-de-emendas/"
+      },
+      {
+        "title": "Metrópoles — Orçamento 2022: Bolsonaro mantém fundo eleitoral de R$ 4,9 bilhões",
+        "url": "https://www.metropoles.com/brasil/economia-br/orcamento-2022-bolsonaro-mantem-fundo-eleitoral-de-r-49-bilhoes"
+      },
+      {
+        "title": "Congresso em Foco — Bolsonaro sanciona Orçamento e mantém fundo eleitoral de R$ 4,9 bilhões",
+        "url": "https://congressoemfoco.com.br/noticia/21023/bolsonaro-sanciona-orcamento-e-mantem-fundo-eleitoral-de-r-49-bilhoes"
+      }
+    ]
+  },
+  {
+    "id": "ambos-033",
+    "politician": "ambos",
+    "text": "Teve a base aliada travando a instalação de uma CPI que atingia o governo, criada só depois que o STF mandou instalá-la.",
+    "context": "Lula: a CPI dos Bingos, pedida em março de 2004 após o caso Waldomiro Diniz, assessor da Casa Civil, ficou mais de um ano sem funcionar porque líderes governistas não indicavam membros; em junho de 2005 o STF, por 9 a 1, mandou o Senado instalá-la. Jair Bolsonaro: a CPI da Covid, com assinaturas suficientes desde fevereiro de 2021, só foi instalada em abril depois de ordem do ministro Luís Roberto Barroso; o governo tentou ampliar o escopo para estados e municípios e o presidente falou em 'interferência' para atingi-lo.",
+    "year": 2021,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Conjur — Tendência do Supremo é aprovar criação da CPI dos Bingos",
+        "url": "https://www.conjur.com.br/2005-mai-04/tendencia_supremo_aprovar_criacao_cpi_bingos"
+      },
+      {
+        "title": "Agência Brasil — Supremo manda Congresso instalar CPI dos Bingos",
+        "url": "https://memoria.ebc.com.br/agenciabrasil//noticia/2005-06-22/supreme-court-orders-congress-install-investigative-commission"
+      },
+      {
+        "title": "Exame — Barroso determina a instalação da CPI da Covid-19 no Senado",
+        "url": "https://exame.com/brasil/barroso-determina-a-instalacao-da-cpi-da-covid-19-no-senado/"
+      },
+      {
+        "title": "A Gazeta/Estadão — Governo age para reduzir danos de CPI da Covid e colocar Barroso no alvo",
+        "url": "https://www.agazeta.com.br/brasil/governo-age-para-reduzir-danos-de-cpi-da-covid-e-colocar-barroso-no-alvo-0421"
+      }
+    ]
+  },
+  {
+    "id": "ambos-034",
+    "politician": "ambos",
+    "text": "Executou bilhões em emendas parlamentares sem transparência sobre quem pediu e para onde foi o dinheiro, até o STF intervir para exigir rastreabilidade.",
+    "context": "Jair Bolsonaro: as emendas de relator, o 'orçamento secreto', movimentaram cerca de R$ 16 bilhões por ano entre 2020 e 2022 sem identificar os padrinhos; o STF as declarou inconstitucionais em dezembro de 2022, por 6 a 5. Lula: em 2023 e 2024 as emendas de comissão e as 'emendas Pix' repetiram a opacidade sobre autores e destino, e em agosto de 2024 o ministro Flávio Dino suspendeu os pagamentos até que houvesse rastreabilidade, decisão mantida pelo plenário.",
+    "year": 2024,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Metrópoles — Com voto de Lewandowski, STF forma maioria para derrubar orçamento secreto",
+        "url": "https://www.metropoles.com/brasil/com-voto-de-lewandowski-stf-forma-maioria-para-derrubar-orcamento-secreto"
+      },
+      {
+        "title": "Poder360 — Entenda o que Dino mandou o Congresso fazer com as emendas Pix",
+        "url": "https://poder360.com.br/poder-justica/entenda-o-que-dino-mandou-congresso-fazer-com-emendas-pix"
+      },
+      {
+        "title": "Correio Braziliense — Flávio Dino vota para manter a suspensão das emendas Pix",
+        "url": "https://www.correiobraziliense.com.br/politica/2024/08/6921471-flavio-dino-vota-para-manter-a-suspensao-das-emendas-pix.html"
+      }
+    ]
+  },
+  {
+    "id": "ambos-035",
+    "politician": "ambos",
+    "text": "Liberou bilhões em emendas parlamentares nos dias imediatamente anteriores a votações decisivas para o governo no Congresso.",
+    "context": "Jair Bolsonaro: empenhou R$ 3,3 bilhões em emendas de relator entre outubro e novembro de 2021, R$ 1 bilhão deles na semana da votação da PEC dos Precatórios. Lula: liberou R$ 1,1 bilhão no dia da votação do arcabouço fiscal, em maio de 2023, e R$ 2,1 bilhões em um único dia, até então recorde do governo, na véspera da votação da reforma tributária, em julho de 2023.",
+    "year": 2023,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "BP Money/Folhapress — Governo Bolsonaro empenha R$ 3,3 bi em emendas de relator às vésperas da PEC dos Precatórios",
+        "url": "https://bpmoney.com.br/?p=157054"
+      },
+      {
+        "title": "A Gazeta/Folhapress — Governo Lula libera R$ 1 bi em emendas e prioriza aliados e Centrão",
+        "url": "https://www.agazeta.com.br/brasil/governo-lula-libera-r-1-bi-em-emendas-e-prioriza-aliados-e-centrao-0523"
+      },
+      {
+        "title": "Itatiaia/CNN Brasil — Às vésperas da reforma tributária, governo libera recorde de emendas em um único dia",
+        "url": "https://www.itatiaia.com.br/politica/as-vesperas-de-votacao-da-reforma-tributaria-governo-libera-recorde-de-emendas-em-um-unico-dia-r-21-bilhoes/"
+      },
+      {
+        "title": "Gazeta do Povo — Lula já liberou R$ 16 bilhões em emendas; dinheiro jorra nas grandes votações",
+        "url": "https://www.gazetadopovo.com.br/republica/lula-ja-liberou-r-16-bilhoes-em-emendas-dinheiro-jorra-nas-grandes-votacoes/"
+      }
+    ]
   }
 ]

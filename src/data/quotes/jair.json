@@ -784,5 +784,403 @@
         "url": "https://www.cnnbrasil.com.br/politica/bolsonaro-reforca-anistia-como-solucao-para-tarifaco-de-trump/"
       }
     ]
+  },
+  {
+    "id": "jair-080",
+    "politician": "jair",
+    "text": "Votou a favor da urgência que destravou, no mesmo dia, o reajuste de 61,8% do próprio salário de deputado, de R$ 16,5 mil para R$ 26,7 mil.",
+    "context": "Em 15 de dezembro de 2010 a Câmara aprovou por 279 a 35 o requerimento de urgência do projeto, única votação nominal do dia, já que o PSOL recusou acordo; o mérito passou em votação simbólica horas depois e foi confirmado pelo Senado na mesma noite. O novo salário igualou o teto do STF a partir de fevereiro de 2011.",
+    "year": 2010,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Quem apoiou a votação do aumento para os parlamentares",
+        "url": "https://www.congressoemfoco.com.br/noticia/70521/quem-apoiou-a-votacao-do-aumento-para-os-parlamentares"
+      },
+      {
+        "title": "Agência Câmara — Câmara aprova reajuste de parlamentares, ministros e presidente",
+        "url": "https://www.camara.leg.br/noticias/208186-camara-aprova-reajuste-de-parlamentares,-ministros-e-presidente"
+      },
+      {
+        "title": "Gazeta do Povo — Câmara aprova salário de R$ 26,7 mil para parlamentares e presidente",
+        "url": "https://www.gazetadopovo.com.br/vida-publica/camara-aprova-salario-de-r-267-mil-para-parlamentares-e-presidente-dibsfoexfk54emq77sm64tsum"
+      }
+    ]
+  },
+  {
+    "id": "jair-081",
+    "politician": "jair",
+    "text": "Votou duas vezes a favor de inscrever na Constituição o financiamento de partidos por doações de empresas.",
+    "context": "Reforma política de 2015: em 27 de maio a Câmara aprovou por 330 a 141 a emenda que permitia doações empresariais a partidos, um dia depois de rejeitar texto parecido, em manobra de Eduardo Cunha; em 12 de agosto confirmou em segundo turno por 317 a 162. Votou 'sim' nas duas. Em setembro, o STF declarou inconstitucionais as doações de empresas a campanhas.",
+    "year": 2015,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Câmara aprova inclusão de financiamento privado na Constituição",
+        "url": "https://congressoemfoco.com.br/noticias/camara-aprova-inclusao-de-financiamento-privado-na-constituicao"
+      },
+      {
+        "title": "Agência Câmara — Câmara aprova doação de empresas a partidos e conclui reforma política",
+        "url": "https://www.camara.leg.br/noticias/466936-camara-aprova-doacao-de-empresas-a-partidos-e-conclui-reforma-politica/"
+      },
+      {
+        "title": "CUT/CartaCapital — A lista dos deputados que aprovaram a doação empresarial de campanha",
+        "url": "https://www.cut.org.br/noticias/a-lista-dos-deputados-que-aprovaram-a-doacao-empresarial-de-campanha-6085/"
+      }
+    ]
+  },
+  {
+    "id": "jair-082",
+    "politician": "jair",
+    "text": "Votou contra a reserva de 20% das vagas em concursos públicos federais para negros, chamando o projeto de 'racista, separatista e imoral'.",
+    "context": "Em 26 de março de 2014 a Câmara aprovou o projeto por 314 a 36, sem nenhum partido orientar contra; ele foi um dos 36 votos 'não'. O texto virou a Lei 12.990/2014.",
+    "year": 2014,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Cotas para negros em concurso: veja como cada deputado votou",
+        "url": "https://congressoemfoco.com.br/noticia/75038/cotas-para-negros-em-concurso-veja-como-cada-deputado-votou"
+      },
+      {
+        "title": "Congresso em Foco — Câmara aprova cotas para negros em concursos",
+        "url": "https://congressoemfoco.com.br/noticia/75047/camara-aprova-cotas-para-negros-em-concursos"
+      }
+    ]
+  },
+  {
+    "id": "jair-083",
+    "politician": "jair",
+    "text": "Recebeu auxílio-moradia da Câmara, em dinheiro e sem apresentar comprovantes, por mais de 20 anos, mesmo tendo apartamento próprio em Brasília.",
+    "context": "Reportagem da Folha de janeiro de 2018 mostrou que recebia o benefício ininterruptamente desde 1995 e que comprou, no fim dos anos 1990, um apartamento no Sudoeste pago com R$ 75 mil em espécie, onde morava um filho, também deputado e também beneficiário. Prometeu vender o imóvel.",
+    "year": 2018,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Bolsonaro recebe auxílio-moradia mesmo tendo apartamento em Brasília",
+        "url": "https://congressoemfoco.com.br/noticias/bolsonaro-recebe-auxilio-moradia-mesmo-tendo-apartamento-em-brasilia"
+      },
+      {
+        "title": "TNH1/Folha — 'Tem que pegar o meu patrimônio, esquece meus filhos', diz Bolsonaro",
+        "url": "https://www.tnh1.com.br/noticia/nid/tem-que-pegar-o-meu-patrimonio-esquece-meus-filhos-diz-bolsonaro/"
+      }
+    ]
+  },
+  {
+    "id": "jair-084",
+    "politician": "jair",
+    "text": "Recebeu R$ 33,7 mil de 'auxílio-mudança' da Câmara três dias antes de deixar o mandato de deputado e não devolveu o valor.",
+    "context": "O pagamento, antecipado pela Mesa para 28 de dezembro de 2018, somou-se ao salário e à metade do 13º: R$ 84,3 mil brutos naquele mês, dias antes de ele tomar posse em outro cargo. Apenas 5 dos 513 deputados abriram mão do benefício; questionado pela Folha, não respondeu.",
+    "year": 2018,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Bolsonaro recebeu R$ 33,7 mil de auxílio-mudança da Câmara três dias antes da posse",
+        "url": "https://www.congressoemfoco.com.br/noticia/39209/bolsonaro-recebeu-r-337-mil-de-auxilio-mudanca-da-camara-tres-dias-antes-da-posse"
+      },
+      {
+        "title": "Exame — Justiça restabelece auxílio-mudança de R$ 33 mil para parlamentares",
+        "url": "https://exame.com/brasil/justica-restabelece-auxilio-mudanca-de-r-33-mil-para-parlamentares/"
+      }
+    ]
+  },
+  {
+    "id": "jair-085",
+    "politician": "jair",
+    "text": "Usou a cota parlamentar da Câmara para pagar viagens pelo país em que se apresentava como pré-candidato à Presidência.",
+    "context": "Levantamento da Folha em abril de 2017 encontrou ao menos seis viagens de pré-campanha pagas pela Câmara em cinco meses, como uma palestra em Recife em que foi apresentado como 'futuro presidente do Brasil'. Segundo o Estadão, seus gastos com passagens pagas pela Casa subiram 39% em 2017 e as viagens a outros estados foram de 23 para 83. As normas da Câmara vedam gastos de caráter eleitoral; ele negou estar em campanha.",
+    "year": 2017,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Bahia Notícias/Folha — Bolsonaro usa cota parlamentar para custear viagens de pré-campanha à Presidência",
+        "url": "https://www.bahianoticias.com.br/noticia/206270-bolsonaro-usa-cota-parlamentar-para-custear-viagens-de-pre-campanha-a-presidencia"
+      },
+      {
+        "title": "Bahia Notícias/Estadão — Campanha de Bolsonaro pelo país faz Câmara gastar mais com passagens",
+        "url": "https://www.bahianoticias.com.br/estadao/noticia/216750-campanha-de-bolsonaro-pelo-pais-faz-camara-gastar-mais-com-passagens"
+      },
+      {
+        "title": "A União — Bolsonaro gasta 39% a mais com passagens aéreas pagas pela Câmara",
+        "url": "https://auniao.pb.gov.br/noticias/caderno_politicas/bolsonaro-gasta-39-a-mais-com-passagens-aereas-pagas-pela-camara"
+      }
+    ]
+  },
+  {
+    "id": "jair-086",
+    "politician": "jair",
+    "text": "Manteve em seu gabinete na Câmara, com salário de R$ 10 mil e frequência integral atestada, a filha de um assessor da família que trabalhava como personal trainer no Rio em horário comercial.",
+    "context": "Nathalia Queiroz constou como secretária parlamentar de dezembro de 2016 a outubro de 2018, com 40 horas semanais e sem faltas, enquanto atendia clientes no Rio; a Câmara informou nunca ter emitido crachá para ela. Em 2019 um procurador da República enviou representação à PGR por suspeita de peculato; ele mandou perguntar ao chefe de gabinete.",
+    "year": 2018,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Estado de Minas/Estadão — Gabinete de Bolsonaro atesta frequência de filha de Queiroz que é personal trainer",
+        "url": "https://www.em.com.br/app/noticia/politica/2019/01/16/interna_politica,1021958/gabinete-de-bolsonaro-atesta-frequencia-de-filha-de-queiroz-que-e-per.shtml"
+      },
+      {
+        "title": "Metrópoles — Procurador do DF acusa Bolsonaro de improbidade e peculato",
+        "url": "https://www.metropoles.com/brasil/politica-br/procurador-do-df-acusa-bolsonaro-de-improbidade-e-peculato"
+      },
+      {
+        "title": "Jornal do Brasil — Assessora de Bolsonaro trabalhava como personal trainer de celebridades durante expediente na Câmara",
+        "url": "https://www.jb.com.br/pais/2018/12/965464-assessora-de-bolsonaro-trabalhava-como-personal-trainer-de-celebridades-durante-expediente-na-camara.html"
+      }
+    ]
+  },
+  {
+    "id": "jair-087",
+    "politician": "jair",
+    "text": "Nomeou para o próprio gabinete na Câmara cinco parentes da então companheira, além do primeiro sogro.",
+    "context": "Levantamento do O Globo em 2019 mostrou que ele e os filhos políticos empregaram dezenas de pessoas com laços de parentesco desde 1991; ele contratou o primeiro sogro em 1991 e, a partir de 1998, cinco integrantes da família Siqueira Valle, três depois transferidos para o gabinete do filho na Assembleia do Rio. Chamou a reportagem de 'mentira deslavada', mas admitiu ter 'botado parente no gabinete' antes de o nepotismo ser proibido, em 2008.",
+    "year": 1998,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Família Bolsonaro empregou 22 parentes em seus gabinetes desde 1991, aponta O Globo",
+        "url": "https://www.congressoemfoco.com.br/corrupcao/familia-bolsonaro-empregou-22-parentes-em-seus-gabinetes-desde-1991-aponta-o-globo/"
+      },
+      {
+        "title": "O Globo (cópia no repositório do Senado) — Bolsonaros empregaram 102 pessoas com laços de parentesco",
+        "url": "https://www2.senado.leg.br/jspui/bitstream/id/562775/1/noticia.html"
+      },
+      {
+        "title": "Poder360 — 'É natural botar quem está do seu lado', diz Bolsonaro sobre nomeação de parentes",
+        "url": "https://www.poder360.com.br/governo/e-natural-botar-quem-esta-do-seu-lado-diz-bolsonaro-sobre-nomeacao-de-parentes/"
+      }
+    ]
+  },
+  {
+    "id": "jair-088",
+    "politician": "jair",
+    "text": "Vetou, em plena pandemia, os trechos de uma lei que obrigavam a União a garantir água potável, leitos de UTI, materiais de higiene e cestas básicas a aldeias indígenas.",
+    "context": "Lei 14.021, sancionada em julho de 2020 com 16 dispositivos vetados sob o argumento de despesa sem estimativa de impacto. Em agosto o Congresso derrubou a maior parte dos vetos (água, higiene, leitos); o veto às cestas básicas foi mantido.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Agência Senado — Bolsonaro sanciona com vetos lei para proteger indígenas durante pandemia",
+        "url": "https://www12.senado.leg.br/noticias/materias/2020/07/08/bolsonaro-sanciona-com-vetos-lei-para-proteger-indigenas-durante-pandemia"
+      },
+      {
+        "title": "Agência Senado — Congresso derruba vetos de Bolsonaro a lei que protege indígenas na pandemia",
+        "url": "https://www12.senado.leg.br/noticias/materias/2020/08/19/congresso-derruba-vetos-de-bolsonaro-a-lei-que-protege-indigenas-na-pandemia"
+      },
+      {
+        "title": "Congresso em Foco — Bolsonaro esvazia lei que garante proteção a indígenas durante a pandemia",
+        "url": "https://congressoemfoco.com.br/governo/bolsonaro-esvazia-lei-que-garante-protecao-a-indigenas-durante-a-pandemia"
+      }
+    ]
+  },
+  {
+    "id": "jair-089",
+    "politician": "jair",
+    "text": "Vetou integralmente a lei que previa indenização de R$ 50 mil a profissionais de saúde incapacitados permanentemente pela covid-19 e às famílias dos que morreram.",
+    "context": "Veto total em agosto de 2020, alegando criação de despesa continuada em período de calamidade. Derrubado em março de 2021 por 439 a 19 na Câmara e 73 a 1 no Senado; virou a Lei 14.128/2021.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Congresso derruba veto de Bolsonaro a indenização a profissionais de saúde",
+        "url": "https://congressoemfoco.com.br/saude/congresso-derruba-veto-de-bolsonaro-a-indenizacao-a-profissionais-de-saude"
+      },
+      {
+        "title": "Congresso Nacional — Veto 36/2020 (ficha oficial)",
+        "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13565"
+      }
+    ]
+  },
+  {
+    "id": "jair-090",
+    "politician": "jair",
+    "text": "Vetou integralmente o projeto que destinava R$ 3,5 bilhões para garantir internet a alunos e professores da rede pública durante o ensino remoto.",
+    "context": "O veto, de março de 2021, alegou risco à meta fiscal. O Congresso o derrubou em junho de 2021 (Lei 14.172) e o governo ainda acionou o STF contra a lei.",
+    "year": 2021,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Bolsonaro vai à Justiça contra lei que garante internet na educação pública",
+        "url": "https://congressoemfoco.com.br/governo/bolsonaro-vai-a-justica-contra-lei-que-garante-internet-na-educacao-publica"
+      },
+      {
+        "title": "Gazeta do Povo — Vetos de Bolsonaro derrubados pelo Congresso em 1º de junho",
+        "url": "https://www.gazetadopovo.com.br/republica/vetos-bolsonaro-derrubados-congresso-1-6/"
+      }
+    ]
+  },
+  {
+    "id": "jair-091",
+    "politician": "jair",
+    "text": "Vetou integralmente o projeto que suspendia despejos e remoções forçadas de imóveis urbanos durante a pandemia.",
+    "context": "Veto total em agosto de 2021, com a justificativa de que a medida era 'meritória, mas contraria o interesse público'. Derrubado em setembro por 435 a 6 na Câmara e 57 a 0 no Senado; virou a Lei 14.216/2021.",
+    "year": 2021,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso Nacional — Veto 42/2021 (ficha oficial)",
+        "url": "https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/14485"
+      },
+      {
+        "title": "Poder360 — Congresso derruba veto de Bolsonaro à suspensão de despejos",
+        "url": "https://www.poder360.com.br/congresso/congresso-derruba-veto-de-bolsonaro-a-suspensao-de-despejos/"
+      },
+      {
+        "title": "Folha de Pernambuco/Agência Senado — Lei que suspende despejos durante a pandemia é promulgada",
+        "url": "https://www.folhape.com.br/politica/lei-que-suspende-despejos-durante-a-pandemia-e-promulgada-e-passa-a/201013/"
+      }
+    ]
+  },
+  {
+    "id": "jair-092",
+    "politician": "jair",
+    "text": "Vetou integralmente a Lei Paulo Gustavo, que repassava R$ 3,8 bilhões a estados e municípios para socorrer o setor cultural atingido pela pandemia.",
+    "context": "Veto publicado em abril de 2022 alegando 'contrariedade ao interesse público'. Derrubado em julho de 2022 por 414 a 39 na Câmara e por unanimidade no Senado, junto com o veto à Lei Aldir Blanc 2.",
+    "year": 2022,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "O Povo — Deputados de oposição falam em derrubar veto de Bolsonaro à Lei Paulo Gustavo",
+        "url": "https://www.opovo.com.br/noticias/politica/2022/04/06/deputados-de-oposicao-falam-em-derrubar-veto-de-bolsonaro-a-lei-paulo-gustavo.html"
+      },
+      {
+        "title": "Poder360 — Congresso derruba veto à Lei Aldir Blanc de apoio à cultura",
+        "url": "https://www.poder360.com.br/congresso/congresso-derruba-veto-a-lei-aldir-blanc-de-apoio-a-cultura/"
+      },
+      {
+        "title": "Gazeta do Povo — Congresso derruba vetos das leis Paulo Gustavo e Aldir Blanc 2",
+        "url": "https://www.gazetadopovo.com.br/vida-e-cidadania/congresso-derruba-vetos-das-leis-paulo-gustavo-e-aldir-blanc-2/"
+      }
+    ]
+  },
+  {
+    "id": "jair-093",
+    "politician": "jair",
+    "text": "Editou uma medida provisória que suspendia os prazos de resposta a pedidos feitos pela Lei de Acesso à Informação durante a pandemia.",
+    "context": "MP 928, de 23 de março de 2020. Três dias depois, o ministro Alexandre de Moraes suspendeu o trecho, a pedido da OAB, afirmando que ele transformava 'a norma constitucional de publicidade e transparência em exceção'; a MP perdeu a validade.",
+    "year": 2020,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Entidades reagem à suspensão de prazos da Lei de Acesso à Informação",
+        "url": "https://www.congressoemfoco.com.br/especial/noticias/entidades-reagem-a-suspensao-de-prazos-da-lei-de-acesso-a-informacao/"
+      },
+      {
+        "title": "Poder360 — Moraes suspende restrições à Lei de Acesso à Informação impostas por MP",
+        "url": "https://www.poder360.com.br/justica/moraes-suspende-restricoes-a-lei-de-acesso-a-informacao-impostas-por-mp/"
+      },
+      {
+        "title": "Congresso em Foco — STF suspende eficácia de MP que restringia acesso a informações públicas",
+        "url": "https://congressoemfoco.com.br/judiciario/stf-suspende-eficacia-de-mp-que-restringia-acesso-a-informacoes-publicas"
+      }
+    ]
+  },
+  {
+    "id": "jair-094",
+    "politician": "jair",
+    "text": "Anunciou a indicação do próprio filho, deputado federal, para embaixador do Brasil nos Estados Unidos.",
+    "context": "Julho de 2019, um dia depois de o filho completar 35 anos, idade mínima para o cargo; a justificativa era a boa relação com Donald Trump. Sem votos para passar no Senado, o filho desistiu em outubro de 2019.",
+    "year": 2019,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Poder360 — Bolsonaro diz que Eduardo será embaixador dos EUA 'se Deus quiser'",
+        "url": "https://www.poder360.com.br/governo/bolsonaro-diz-que-eduardo-sera-embaixador-dos-eua-se-deus-quiser/"
+      },
+      {
+        "title": "Poder360 — Eduardo Bolsonaro desiste de indicação para embaixada nos EUA",
+        "url": "https://www.poder360.com.br/governo/eduardo-bolsonaro-desiste-de-indicacao-para-embaixada-nos-eua/"
+      },
+      {
+        "title": "Congresso em Foco — Eduardo Bolsonaro desiste da embaixada nos EUA",
+        "url": "https://congressoemfoco.com.br/legislativo/eduardo-bolsonaro-desiste-da-embaixada-nos-eua"
+      }
+    ]
+  },
+  {
+    "id": "jair-095",
+    "politician": "jair",
+    "text": "Concedeu indulto a um deputado aliado um dia depois de o STF condená-lo a 8 anos e 9 meses de prisão por ameaças e incitação à violência contra ministros da Corte.",
+    "context": "Decreto de 21 de abril de 2022, anunciado em live, em favor de Daniel Silveira. O STF anulou o indulto em maio de 2023, por 8 a 2, por desvio de finalidade, e a pena voltou a valer.",
+    "year": 2022,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Bolsonaro assina decreto que perdoa crimes de Daniel Silveira",
+        "url": "https://congressoemfoco.com.br/area/governo/urgente-bolsonaro-assina-decreto-que-perdoa-crimes-de-daniel-silveira"
+      },
+      {
+        "title": "Migalhas — Decreto de Bolsonaro impede prisão de Daniel Silveira",
+        "url": "https://www.migalhas.com.br/quentes/364416/decreto-de-bolsonaro-impede-prisao-de-daniel-silveira"
+      },
+      {
+        "title": "Metrópoles — Anulação de indulto fará Silveira passar a cumprir pena de condenação",
+        "url": "https://www.metropoles.com/brasil/anulacao-de-indulto-fara-silveira-passar-a-cumprir-pena-de-condenacao"
+      }
+    ]
+  },
+  {
+    "id": "jair-096",
+    "politician": "jair",
+    "text": "Nomeou um delegado amigo da família para a direção-geral da Polícia Federal dias depois de o ministro da Justiça pedir demissão denunciando tentativa de interferência na corporação.",
+    "context": "Alexandre Ramagem, então chefe da Abin, foi nomeado em abril de 2020. O ministro Alexandre de Moraes suspendeu a nomeação por indício de desvio de finalidade e ela foi revogada no mesmo dia; Ramagem voltou à Abin.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Conjur — Alexandre suspende nomeação de Ramagem para chefia da PF",
+        "url": "https://www.conjur.com.br/2020-abr-29/alexandre-suspende-nomeacao-ramagem-chefia-pf"
+      },
+      {
+        "title": "CNN Brasil — STF suspende Ramagem na PF",
+        "url": "https://www.cnnbrasil.com.br/nacional/stf-suspende-ramagem-na-pf-covid-19no-brasil-e-mais-da-tarde-de-29-de-abril/"
+      },
+      {
+        "title": "Migalhas — Bolsonaro revoga nomeação de Alexandre Ramagem para PF",
+        "url": "https://www.migalhas.com.br/quentes/325805/bolsonaro-revoga-nomeacao-de-alexandre-ramagem-para-pf"
+      }
+    ]
+  },
+  {
+    "id": "jair-097",
+    "politician": "jair",
+    "text": "Incluiu no indulto de Natal o perdão a policiais e militares condenados por crimes culposos ou por excessos cometidos em serviço e, no último ano de mandato, ampliou o perdão para alcançar crimes de mais de 30 anos atrás.",
+    "context": "Decreto de 23 de dezembro de 2019, editado sem ouvir o Conselho Nacional de Política Criminal e Penitenciária; críticos disseram que o texto 'favorece a milícia'. Em dezembro de 2022 o perdão passou a cobrir condenados, mesmo sem trânsito em julgado, por crimes não hediondos à época e cometidos há mais de 30 anos, o que, segundo juristas, alcançava os PMs condenados pelo massacre do Carandiru, de 1992.",
+    "year": 2019,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco/Ponte — Indulto de Bolsonaro a policiais favorece milícia, afirma policial civil",
+        "url": "https://congressoemfoco.com.br/noticia/24159/indulto-de-bolsonaro-a-policiais-favorece-milicia-afirma-policial-civil"
+      },
+      {
+        "title": "Gazeta do Povo — Indulto de Natal 2019: entenda o decreto de Bolsonaro",
+        "url": "https://www.gazetadopovo.com.br/republica/indulto-natal-2019-jair-bolsonaro-entenda/"
+      },
+      {
+        "title": "Poder360 — Bolsonaro autoriza indulto de Natal para policiais e militares",
+        "url": "https://www.poder360.com.br/governo/bolsonaro-autoriza-indulto-de-natal-para-policiais-e-militares/"
+      }
+    ]
+  },
+  {
+    "id": "jair-098",
+    "politician": "jair",
+    "text": "Reuniu-se no Palácio do Planalto com o chefe da Abin, o ministro do GSI e as advogadas do filho para tratar da investigação das 'rachadinhas'; no encontro gravado, discutiu-se abrir procedimento contra os auditores da Receita que originaram o caso.",
+    "context": "Reunião de 25 de agosto de 2020; o áudio, encontrado no celular de Alexandre Ramagem, foi tornado público pelo STF em julho de 2024. A PF concluiu que a Abin produziu relatórios para a defesa de Flávio Bolsonaro e monitorou os auditores; o relatório final do inquérito da 'Abin paralela', em 2025, indiciou 36 pessoas, entre elas Ramagem e Carlos Bolsonaro. Ramagem e Flávio negam irregularidades.",
+    "year": 2020,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Metrópoles — Ramagem teria ordenado devassa em auditores que miraram Flávio, diz PF",
+        "url": "https://www.metropoles.com/colunas/guilherme-amado/ramagem-teria-ordenado-devassa-em-auditores-que-miraram-flavio-diz-pf"
+      },
+      {
+        "title": "Metrópoles — Ramagem diz que Bolsonaro sabia que ele gravaria reunião sobre Flávio",
+        "url": "https://www.metropoles.com/brasil/ramagem-diz-que-bolsonaro-sabia-que-ele-gravaria-reuniao-sobre-flavio"
+      },
+      {
+        "title": "Poder360 — PF indica que Abin agiu para ajudar Flávio e Renan Bolsonaro",
+        "url": "https://www.poder360.com.br/justica/pf-indica-que-abin-agiu-para-ajudar-flavio-e-renan-bolsonaro/"
+      }
+    ]
   }
 ]
