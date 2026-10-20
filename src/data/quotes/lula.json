@@ -730,5 +730,223 @@
         "url": "https://www.aosfatos.org/noticias/lula-venezuela-defesa-maduro/"
       }
     ]
+  },
+  {
+    "id": "lula-052",
+    "politician": "lula",
+    "text": "Votou contra o texto final da Constituição de 1988, junto com quase toda a sua bancada, e assinou a Carta depois.",
+    "context": "Em 22 de setembro de 1988 o texto foi aprovado por 474 a 15; os 15 votos contrários vieram da bancada de 16 deputados do seu partido, por decisão do diretório nacional. No discurso, declarou que o partido 'vota contra o texto'. Em 2008 admitiu que o projeto do partido 'tornaria muito mais difícil governar o país'.",
+    "year": 1988,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Lula admite negligência do PT na época da Constituinte",
+        "url": "https://www.congressoemfoco.com.br/noticia/79130/lula-admite-negligencia-do-pt-na-epoca-da-constituinte"
+      },
+      {
+        "title": "Poder360 — Lula diz que Constituição garante direitos e cobra sua proteção",
+        "url": "https://www.poder360.com.br/governo/lula-diz-que-constituicao-garante-direitos-e-cobra-sua-protecao/"
+      }
+    ]
+  },
+  {
+    "id": "lula-053",
+    "politician": "lula",
+    "text": "Na segunda semana de mandato, sancionou sem vetos a lei que elevou em 18% o salário dos ministros do STF, para R$ 46,4 mil, valor que serve de teto para todo o funcionalismo.",
+    "context": "Lei 14.520, assinada em 9 de janeiro de 2023, com parcelas até fevereiro de 2025; foi sancionada junto com outros sete projetos de reajuste de carreiras do Judiciário, do Ministério Público e do Legislativo. Como o subsídio do STF é o teto constitucional, o reajuste abriu efeito cascata em estados e municípios.",
+    "year": 2023,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Metrópoles — Lula sanciona aumento para ministros do STF; salário vai a R$ 46,3 mil",
+        "url": "https://www.metropoles.com/brasil/lula-sanciona-aumento-para-ministros-do-stf-salario-vai-a-r-463-mil"
+      },
+      {
+        "title": "O Povo — Lula sanciona lei que aumenta salário dos ministros do STF",
+        "url": "https://www.opovo.com.br/noticias/politica/2023/01/11/lula-sanciona-lei-que-aumenta-salario-dos-ministros-do-stf.html"
+      }
+    ]
+  },
+  {
+    "id": "lula-054",
+    "politician": "lula",
+    "text": "Ampliou o número de ministérios de 23 para 37 ao tomar posse e, nove meses depois, criou o 38º para acomodar um aliado.",
+    "context": "Estrutura anunciada em dezembro de 2022 e oficializada por medida provisória em 1º de janeiro de 2023. Em setembro de 2023 criou o Ministério do Empreendedorismo e da Micro e Pequena Empresa para Márcio França, que perdeu a pasta de Portos e Aeroportos na reforma que abriu espaço ao centrão.",
+    "year": 2023,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Lula aumentará ministérios de 23 para 37, mas sem criar cargos, diz Rui Costa",
+        "url": "https://congressoemfoco.com.br/area/governo/lula-aumentara-ministerios-de-23-para-37-mas-sem-criar-cargos-diz-rui-costa"
+      },
+      {
+        "title": "Poder360 — Governo Lula terá 37 ministérios",
+        "url": "https://www.poder360.com.br/governo/governo-lula-tera-37-ministerios/"
+      },
+      {
+        "title": "Exame — Lula anuncia a criação do ministério das pequenas e médias empresas",
+        "url": "https://exame.com/brasil/lula-anuncia-a-criacao-do-ministerio-da-pequenas-e-media-empresa/"
+      }
+    ]
+  },
+  {
+    "id": "lula-055",
+    "politician": "lula",
+    "text": "Nomeou para o Supremo o advogado de suas três campanhas presidenciais, então advogado-geral da União, que havia sido reprovado em concurso para juiz.",
+    "context": "Dias Toffoli, 41 anos, advogado do partido nas campanhas de 1998, 2002 e 2006 e ex-assessor da liderança na Câmara, foi aprovado em 30 de setembro de 2009 por 58 a 9 no plenário do Senado. Na sabatina, senadores de oposição questionaram o 'notório saber jurídico' exigido pela Constituição.",
+    "year": 2009,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Conjur — Toffoli é aprovado com folga pelo Senado para o Supremo",
+        "url": "https://www.conjur.com.br/2009-set-30/toffoli-aprovado-folga-senado-ministro-supremo"
+      },
+      {
+        "title": "Congresso em Foco — CCJ aprova nome de Toffoli para o Supremo",
+        "url": "https://www.congressoemfoco.com.br/noticia/73166/ccj-aprova-nome-de-toffoli-para-o-supremo"
+      }
+    ]
+  },
+  {
+    "id": "lula-056",
+    "politician": "lula",
+    "text": "Aceitou ser nomeado ministro-chefe da Casa Civil enquanto era investigado em primeira instância, e o STF suspendeu a posse por 'desvio de finalidade' para obter foro privilegiado.",
+    "context": "Março de 2016. A PF interceptou a presidente Dilma Rousseff dizendo que enviaria o termo de posse 'em caso de necessidade'; dois dias depois, o ministro Gilmar Mendes suspendeu a nomeação e devolveu as investigações ao juiz Sergio Moro. Ele nunca assumiu o cargo.",
+    "year": 2016,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Conjur — Gilmar Mendes suspende nomeação de Lula para a Casa Civil",
+        "url": "https://www.conjur.com.br/2016-mar-18/gilmar-mendes-suspende-nomeacao-lula-casa-civil"
+      },
+      {
+        "title": "STF — Ministro suspende nomeação de Lula para Casa Civil e mantém processo na 1ª instância",
+        "url": "https://noticias.stf.jus.br/postsnoticias/ministro-suspende-nomeacao-de-lula-para-casa-civil-e-mantem-processo-na-1a-instancia/"
+      }
+    ]
+  },
+  {
+    "id": "lula-057",
+    "politician": "lula",
+    "text": "Recusou acordo para dividir com a oposição o comando da CPI da Petrobras, montou um colegiado com 8 governistas em 11 vagas e viu a oposição abandonar a comissão chamando-a de 'farsa'.",
+    "context": "Em maio de 2009 rejeitou a proposta do PMDB de dividir presidência e relatoria com PSDB e DEM. A CPI foi instalada em julho com presidente e relator governistas, sendo o relator o próprio líder do governo no Senado; em outubro, os senadores de oposição deixaram a comissão.",
+    "year": 2009,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Oposição esperneia, mas governo controla CPI",
+        "url": "https://www.congressoemfoco.com.br/noticia/89833/oposicao-esperneia-mas-governo-controla-cpi"
+      },
+      {
+        "title": "Agência Senado — Oposição diz que CPI da Petrobras 'é uma farsa' e abandona reunião",
+        "url": "https://www12.senado.leg.br/noticias/materias/2009/10/27/resolveuid/85c95c3a-171c-4084-8a8a-8deb9cc945bc"
+      }
+    ]
+  },
+  {
+    "id": "lula-058",
+    "politician": "lula",
+    "text": "Seu governo pediu a líderes aliados que não assinassem o requerimento da CPMI das fraudes do INSS e trabalhou pela retirada de assinaturas, atrasando a comissão em meses.",
+    "context": "Maio de 2025: a ministra Gleisi Hoffmann reuniu líderes do centrão para apelar contra a CPMI e a oposição adiou o protocolo após a ofensiva do governo. Instalada só em agosto, a comissão elegeu um presidente de oposição por 17 a 14, derrotando o nome apoiado pelo Planalto.",
+    "year": 2025,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Folha de Pernambuco/O Globo — INSS: Gleisi se reúne com líderes e faz apelo contra CPI",
+        "url": "https://www.folhape.com.br/noticia/amp/409497/inss-gleisi-se-reune-com-lideres-e-faz-apelo-contra-cpi-para/"
+      },
+      {
+        "title": "Folha de Pernambuco/O Globo — Após ofensiva do governo, oposição adia pedido de CPMI do INSS",
+        "url": "https://www.folhape.com.br/economia/apos-ofensiva-do-governo-oposicao-adia-pedido-de-cpmi-do-inss-em/409368/"
+      },
+      {
+        "title": "Poder360 — Lula é derrotado e aliado do Planalto perde comando da CPI do INSS",
+        "url": "https://www.poder360.com.br/poder-congresso/lula-e-derrotado-e-aliado-do-planalto-perde-comando-da-cpi-do-inss/"
+      }
+    ]
+  },
+  {
+    "id": "lula-059",
+    "politician": "lula",
+    "text": "Exonerou um ministro para que ele voltasse ao Senado e votasse contra o relatório de uma CPMI que pedia o indiciamento e a prisão preventiva do seu filho.",
+    "context": "Em 27 de março de 2026, Carlos Fávaro deixou o Ministério da Agricultura em edição extra do Diário Oficial e retomou o mandato de senador, tirando da CPMI do INSS a suplente Margareth Buzetti, que votaria pelo relatório. Na madrugada seguinte, a base governista rejeitou por 19 a 12 o parecer que pedia o indiciamento de Fábio Luís Lula da Silva por tráfico de influência e lavagem de dinheiro, e a comissão terminou sem indiciamentos.",
+    "year": 2026,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Diário do Nordeste — Ministro da Agricultura é exonerado pelo governo para votar sobre relatório da CPMI do INSS",
+        "url": "https://diariodonordeste.verdesmares.com.br/pontopoder/ministro-da-agricultura-e-exonerado-pelo-governo-para-votar-sobre-relatorio-da-cpmi-do-inss-1.3753306"
+      },
+      {
+        "title": "Money Times — Lula exonera Carlos Fávaro para reforçar base em CPMI do INSS",
+        "url": "https://www.moneytimes.com.br/lula-exonera-carlos-favaro-para-reforcar-base-em-cpmi-do-inss/"
+      },
+      {
+        "title": "CNN Brasil — CPMI do INSS rejeita parecer de Alfredo Gaspar",
+        "url": "https://www.cnnbrasil.com.br/politica/cpmi-do-inss-rejeita-parecer-de-alfredo-gaspar/"
+      },
+      {
+        "title": "SBT News — Governistas barram relatório e CPMI do INSS termina sem pedidos de indiciamento",
+        "url": "https://sbtnews.sbt.com.br/noticia/politica/governistas-barram-relatorio-e-cpmi-do-inss-termina-sem-pedidos-de-indiciamento-1"
+      }
+    ]
+  },
+  {
+    "id": "lula-060",
+    "politician": "lula",
+    "text": "Vetou o fim das saídas temporárias de presos para visitar a família e viu o Congresso derrubar o veto por 314 a 126 na Câmara e 52 a 11 no Senado.",
+    "context": "O veto, recomendado pelo ministro da Justiça Ricardo Lewandowski, foi derrubado em 28 de maio de 2024; o Senado já havia aprovado o projeto por 62 a 2. Com a derrubada, só restaram as saídas para estudo e trabalho.",
+    "year": 2024,
+    "difficulty": 2,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Em derrota para Lula, Congresso derruba veto em lei do fim das saidinhas",
+        "url": "https://www.congressoemfoco.com.br/area/congresso-nacional/em-derrota-para-lula-congresso-derruba-veto-em-lei-do-fim-das-saidinhas/"
+      },
+      {
+        "title": "Poder360 — Saiba como votaram os congressistas para derrubar o veto às saidinhas",
+        "url": "https://www.poder360.com.br/congresso/saiba-como-votaram-os-congressistas-para-derrubar-o-veto-as-saidinhas/"
+      }
+    ]
+  },
+  {
+    "id": "lula-061",
+    "politician": "lula",
+    "text": "Vetou integralmente a prorrogação da desoneração da folha de 17 setores e viu o Congresso derrubar o veto por 378 a 78 na Câmara e 60 a 13 no Senado.",
+    "context": "Veto em novembro de 2023, derrubado em 14 de dezembro depois de o governo prometer e não enviar uma alternativa. O Executivo então editou medida provisória de reoneração e levou a disputa ao STF.",
+    "year": 2023,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "O Povo — Congresso derruba veto sobre a desoneração, que é renovada até 2027",
+        "url": "https://www.opovo.com.br/noticias/economia/2023/12/14/congresso-derruba-veto-sobre-a-desoneracao-que-e-renovada-ate-2027.html"
+      },
+      {
+        "title": "Congresso em Foco — Em derrota para o governo, Congresso mantém desoneração da folha",
+        "url": "https://congressoemfoco.com.br/noticia/8924/em-derrota-para-o-governo-congresso-mantem-desoneracao-da-folha"
+      }
+    ]
+  },
+  {
+    "id": "lula-062",
+    "politician": "lula",
+    "text": "Seu governo tentou impedir a CPI dos Correios pedindo a aliados que retirassem assinaturas e, meses depois, 66 deputados retiraram apoio à prorrogação, que sobreviveu por uma única assinatura.",
+    "context": "Em julho de 2005 o ministro José Dirceu orientou o líder do governo a pedir a retirada de assinaturas, e a CPI acabou instalada com 223 deputados e 44 senadores. Em novembro, a prorrogação ficou com exatamente 171 assinaturas após a debandada; o líder do governo negou orientação do Planalto.",
+    "year": 2005,
+    "difficulty": 3,
+    "sources": [
+      {
+        "title": "Congresso em Foco — Governistas apoiam instalação de CPI dos Correios",
+        "url": "https://www.congressoemfoco.com.br/noticia/4653/governistas-apoiam-instalacao-de-cpi-dos-correios"
+      },
+      {
+        "title": "Congresso em Foco — Governo tenta barrar CPI",
+        "url": "https://www.congressoemfoco.com.br/noticia/99261/governo-tenta-barrar-cpi"
+      },
+      {
+        "title": "Agência Senado — Congresso prorroga CPI dos Correios até 10 de junho",
+        "url": "https://www12.senado.leg.br/noticias/materias/2005/11/10/congresso-prorroga-cpi-dos-correios-ate-10-de-junho"
+      }
+    ]
   }
 ]
