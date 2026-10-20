@@ -1,7 +1,7 @@
 "use client";
 
 import { MotionConfig } from "motion/react";
-import { useCallback } from "react";
+import { useCallback, useEffect } from "react";
 import { answerOptions } from "@/data/politicians";
 import { answerFor } from "@/data/types";
 import { useGame } from "@/game/useGame";
@@ -36,6 +36,13 @@ export function Game() {
     onSelect: handleAnswer,
     onAdvance: state.phase === "revealed" ? next : undefined,
   });
+
+  const screen = state.phase === "finished" ? "results" : state.index;
+
+  // Each question and the results start at the top, even if the previous context was read further down
+  useEffect(() => {
+    window.scrollTo({ top: 0 });
+  }, [screen]);
 
   return (
     <MotionConfig reducedMotion="user">
