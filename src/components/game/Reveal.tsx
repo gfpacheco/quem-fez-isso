@@ -26,22 +26,28 @@ export function Reveal({ quote, answer, isLast, onNext }: RevealProps) {
 
   return (
     <section className="flex flex-col gap-4">
-      <div style={riseAt(0.9)} className="rise border-t-[3px] border-b border-ink py-2.5">
-        <h2 className="font-display text-2xl leading-none tracking-[0.02em] uppercase">
-          {answer.correct ? (
-            <>
-              <span className="text-success">Acertou</span> +{answer.points} pts
-            </>
-          ) : (
-            <>
-              <span className="text-danger">Errou</span> <span className="text-mute">·</span> <span className="text-accent">{culpritLabel(quote)}</span>
-            </>
-          )}
-        </h2>
+      <h2 style={riseAt(0.9)} className="rise border-t-[3px] border-b border-ink py-2.5 font-display text-2xl leading-none tracking-[0.02em] uppercase">
+        {answer.correct ? (
+          <>
+            <span className="text-success">Acertou</span> +{answer.points} pts
+          </>
+        ) : (
+          <>
+            <span className="text-danger">Errou</span> <span className="text-mute">·</span> <span className="text-accent">{culpritLabel(quote)}</span>
+          </>
+        )}
+      </h2>
 
-        <Kicker align="left" className="mt-3">
-          O contexto
-        </Kicker>
+      <Button ref={nextRef} variant="accent" size="lg" onClick={onNext} style={riseAt(1.0)} className="rise w-full justify-between">
+        <span>{isLast ? "Ver resultado" : "Próxima"}</span>
+        <span className="flex items-center gap-3">
+          <Kbd className="border-paper/40 text-paper/80">↵</Kbd>
+          <span aria-hidden="true" className="text-[26px]">→</span>
+        </span>
+      </Button>
+
+      <div style={riseAt(1.1)} className="rise">
+        <Kicker align="left">O contexto</Kicker>
         <p className="drop-cap mt-2 font-body text-[15px] leading-snug">{quote.context}</p>
 
         <ul className="mt-2.5 flex flex-col gap-1 font-type text-[11px] leading-snug text-ink-2">
@@ -60,14 +66,6 @@ export function Reveal({ quote, answer, isLast, onNext }: RevealProps) {
           ))}
         </ul>
       </div>
-
-      <Button ref={nextRef} variant="accent" size="lg" onClick={onNext} style={riseAt(1.05)} className="rise w-full justify-between">
-        <span>{isLast ? "Ver resultado" : "Próxima"}</span>
-        <span className="flex items-center gap-3">
-          <Kbd className="border-paper/40 text-paper/80">↵</Kbd>
-          <span aria-hidden="true" className="text-[26px]">→</span>
-        </span>
-      </Button>
     </section>
   );
 }
